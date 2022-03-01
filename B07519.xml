@@ -1,0 +1,1999 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Athravaeth Gristnogavl, ḷe cair ụedi cynnụys yn grynno'r hoḷ brifbynciau syḍ i gyfarụyḍo dyn ar y phorḍ i baradụys..</title>
+            <author>Clynnog, Morys, ca. 1521-1581.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1568</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 71 KB of XML-encoded text transcribed from 37 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07519</idno>
+            <idno type="STC">STC 5450.5</idno>
+            <idno type="STC">ESTC S91472</idno>
+            <idno type="EEBO-CITATION">60449152</idno>
+            <idno type="OCLC">ocm 60449152</idno>
+            <idno type="VID">181236</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07519)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181236)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2182:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Athravaeth Gristnogavl, ḷe cair ụedi cynnụys yn grynno'r hoḷ brifbynciau syḍ i gyfarụyḍo dyn ar y phorḍ i baradụys..</title>
+                  <author>Clynnog, Morys, ca. 1521-1581.</author>
+                  <author>Robert, Gruffydd, ca. 1522-ca. 1610, ed.</author>
+               </titleStmt>
+               <extent>[8], 63 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>[Vincenzo Girardoni?],</publisher>
+                  <pubPlace>Ymlen. [i.e. Milan] :</pubPlace>
+                  <date>1568. dyụgụyl. S. Nicolas [i.e. feast of St. Nicholas, 6 Dec.].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Cut of Crucifixion on t.p.</note>
+                  <note>Imprint information from colophon; actual place and publisher from STC (2nd ed.).</note>
+                  <note>Edited, with preface and appendix, by Griffith Roberts.</note>
+                  <note>Signatures: a⁴ A-H⁴.</note>
+                  <note>Reproduction of original in: Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="wel">wel</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Catechisms and creeds --  Welsh --  Early works to 1800.</term>
+               <term>Welsh language --  Texts --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="wel">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:181236:1"/>
+            <pb facs="tcp:181236:1"/>
+            <p>
+               <hi>ATHRAVAETH GRISTNOGAVL,</hi> Le cair ụedi cynnụys yn grynno‘r hoḷ brifbynciau ſyḍ i gyfarụyḍo dyn ar y phorḍ i baradụys.</p>
+            <p>
+               <figure>
+                  <lg>
+                     <l>Meun carchar daear, od oes</l>
+                     <l>anghariad, ynghụyryl y geingroes</l>
+                     <l>I'r enaid mae guir einnioes, </l>
+                     <l>Moḷ didriſt gan Griſt ai groes.</l>
+                  </lg>
+               </figure>
+            </p>
+            <q>Natto duụ i mi ymogoneḍu ynnim; onid ynghroes yn harglụyḍ ni Ieſu Griſt. <bibl>Gal. <hi>6.</hi>
+               </bibl>
+            </q>
+         </div>
+         <div type="front_matter">
+            <pb facs="tcp:181236:2"/>
+            <p>
+               <hi>O</hi> flaen y traethiad e gair y pynciau hynott af meụn tafulan veḍi nodi pob vn ar i ben i hun.</p>
+            <p>Yn niueḍ y lyfr e oſſodụyd y beiau a ſyrthioḍ y gụneuthur ụrth brintio.</p>
+            <p>A ḷauer o eiriau, a fu raid i harfer er nad oeḍynt arferedig trụy Gymru.</p>
+            <p>Byrfoḍau. ſ. moḍ i ſcriſenu geiriau yn fyrr heb i gụneuthur yn ḷaụnlythr.</p>
+            <list>
+               <item>.ſ. dros yſef yụ.</item>
+               <item>a<g ref="char:cmbAbbrStroke">̄</g>: dros am, ne, an.</item>
+               <item>e<g ref="char:cmbAbbrStroke">̄</g>: dros em, ne, en.</item>
+               <item>o<g ref="char:cmbAbbrStroke">̄</g>: dros om, ne, on.</item>
+               <item>i<g ref="char:cmbAbbrStroke">̄</g>: dros im, ne, in.</item>
+               <item>Arg. <hi>N.</hi> dros arglụyḍ ni</item>
+               <item>Arg. dros arglụyḍes</item>
+               <item>M. dros maſtr</item>
+               <item>æ dros ae</item>
+               <item>œ dros oe</item>
+               <item>S. dros ſant</item>
+            </list>
+         </div>
+         <div type="invocation">
+            <pb facs="tcp:181236:2"/>
+            <head>Gruphyḍ fab Rhobert yn annerch yr hyparch brelad, ai ḍibal gynheiliad M. Morys Clynoc: ag yn erchi iḍo gan ḍuụ, gynnyḍ, ras a de<g ref="char:EOLhyphen"/>dụḍụch enaid, a chorph.</head>
+            <p>VEdi ymy ḍarlai<g ref="char:cmbAbbrStroke">̄</g> ych ḷyfr, o‘r athra<g ref="char:EOLhyphen"/>ụaeth Griſtnogaụl, a chanfod ynḍo megis egin pob pụnc hyles i griſtio<g ref="char:cmbAbbrStroke">̄</g> ụr<g ref="char:EOLhyphen"/>tho, i gadụ‘r enaid, a ḍarfu i ḍuụ i ụn euthur ar i lu<g ref="char:cmbAbbrStroke">̄</g>, ai ḍelụ: ag a rybrynnoḍ Criſt ai ụerthfaụr ụaed:e laụenychoḍ fynghalon ụrth ụeled tryſſor mor ụrth faụr yn yr iaith gymraeg: a maint ſyḍ o eiſsie cyfrụiḍid ar phorḍ Griſt, yn gy<g ref="char:EOLunhyphen"/>phredinol ymyſc gụyr yn gụlad: a‘r pla<g ref="char:cmbAbbrStroke">̄</g>t yn crio am fara (mal y mae‘r prophụ<g ref="char:EOLhyphen"/>yd yn ḷefain) heb fod neb, ai tyrr iḍynt ag ai rhyḍ heb i ụenụyno. Am hynny
+<pb facs="tcp:181236:3"/> gen ḍarfod i chụi gaſclu yn grynno, a doſparth yn drefnus, ag yn eglur cy<g ref="char:EOLhyphen"/>mai<g ref="char:cmbAbbrStroke">̄</g>t o flodeuau, a phynciau iachuſa<g ref="char:EOLhyphen"/>ụl, i hyphorḍi vn a chụennychai ụybod ſụyḍ, a rhann Criſtion perpheithgred, i ḍyſcu beth a enniḷ nef, beth a dafl ḍyn i vphern, beth a rhynga boḍ i ḍuụ, a pheth a ụna iḍo ſorri: brynti pechod, odidoụgrụyḍ rhinụeḍ: ni eḷais ar fyn<g ref="char:EOLhyphen"/>ghalon na pharụn i brintio: fal y gaḷo eraiḷ ſyḍ ag eiſsie y cyfryụ ymborth yſ<g ref="char:EOLhyphen"/>prydol arnynt, fod yn gyfra<g ref="char:cmbAbbrStroke">̄</g>nol o‘r ụleḍ a ḍarfu ichụi i harlụy. Gobeithio pan ḍelo i ḍụylaụ y crefyḍgar gymru, y gụ<g ref="char:EOLhyphen"/>na laụer o les iḍynt, trụy i hụylio i ba<g ref="char:EOLhyphen"/>radụys, ai troi o phorḍ uphernaụl. E fyḍ toſtur fyng halo<g ref="char:cmbAbbrStroke">̄</g> pa<g ref="char:cmbAbbrStroke">̄</g>feḍyliụyf faint ſyḍ o blant trụy dir cymru, odidaụg i athrylith, a darpar gụyr arḍerchaụg,
+<pb facs="tcp:181236:3"/> yn methu, ag yn cymryd ḷụybr a<g ref="char:cmbAbbrStroke">̄</g>nụyia<g ref="char:EOLhyphen"/>ụl eiſiau cael oi mebyd i hyphoḍi meụn dyſc, ai meithri<g ref="char:cmbAbbrStroke">̄</g> meụn moeſſaụl ga<g ref="char:cmbAbbrStroke">̄</g>pau. Yr achos fụyaf o hynn yụ<g ref="char:cmbAbbrStroke">̄</g> diphig ḷyfrau a draethant o‘r cyphelib yſtyr. ond yro<g ref="char:EOLhyphen"/>ụron e ḍarfu i chụi meụn ychydig o ḍo<g ref="char:EOLunhyphen"/>le<g ref="char:cmbAbbrStroke">̄</g>nau roḍi cymorth, a help iḍynt rhag yr eiſsiau hynn Canys yn ych ḷyfr chụi yma nhụy a gaant oi ḍyſgu yn haụd, meụn ychydig o amſer, a thrụy ychydig help, a ḷai o goſt, y pethau ſyḍ ange<g ref="char:cmbAbbrStroke">̄</g>rhei<g ref="char:EOLunhyphen"/>diol iụ gụybod, i hen ag ifanc. Canys pụy yụ hụnnụ a eiḷ ḍoedyd i fod yn gri<g ref="char:EOLunhyphen"/>ſtion, oni ụyr pa foḍ y mae credu yngrh<g ref="char:EOLunhyphen"/>iſt, beth ſyḍ oi obeithio gentho, a pheth a orchmynoḍ ef i gadụ; beth a ụahar<g ref="char:EOLhyphen"/>ḍoḍ i ụneuthur, beth a ennil obrụy, a pheth a hauda goſp? fely pan yſtyrio‘r cymru ſyḍ yn caru i heneidiau, mor an<g ref="char:EOLunhyphen"/>hepcor
+<pb facs="tcp:181236:4"/> ydyụ‘r rhain, ag mor hauḍ i dy<g ref="char:EOLunhyphen"/>ſcu ụrth ḍarlai<g ref="char:cmbAbbrStroke">̄</g> y traethiad yma: nhụy a‘ madaụant ai diogſụrth eiſteḍach, ai buſtlaụl ſertheḍ, ag ai ſmala gyfe<g ref="char:EOLhyphen"/>ḍach (onid ydynt ụedi boḍi meụn bryn<g ref="char:EOLunhyphen"/>ti pechod) ag a‘mro ḍa<g ref="char:cmbAbbrStroke">̄</g>t i ḍyſcu pethau ſprydol, buḍfaur i‘r enaid. A hynn nis caant meụn mann araḷ yn y byd mor fyrr, mor drefnus, mor eglur oi deaḷt ag yn y ḷyfr yma i chụi. ca<g ref="char:cmbAbbrStroke">̄</g>ys am<g ref="char:EOLhyphen"/>hoſsibl oeḍ gynnụys meụn ḷai o erriau, a doſparth yn oleuach, a chyfleu yn ụe<g ref="char:EOLunhyphen"/>ḍeiḍiach gynnifer bynciau, a chyn ḍyf<g ref="char:EOLunhyphen"/>ned i‘ſtyriaeth; fal y gaḷo y plant a‘r gụ<g ref="char:EOLhyphen"/>rageḍ i deaḷt, gụyn i byd trụy gymru, pe pare<g ref="char:cmbAbbrStroke">̄</g>t ymhob eglụys ụrth aros y gụa<g ref="char:EOLhyphen"/>ſanaeth, ne ar oſteg ypheren, gartref ymyſc tylụyth y ty i difyrru‘r amſer ag ymhob cyniḷeidfa i ḍiḍanu‘r bobl,
+<pb facs="tcp:181236:4"/> ḍarlain hụnn ne‘r cyfryụ ymadrodion a gadel i phorḍ henchụedlau coegion, a choụydau gụenheuthus, celụḍog. Ond ar hydr y rhyḍ yr yſpryd glan ras iḍynt hụy i gymryd dyſc, megis y roes i chụi oi ſcrifennu attyn; mi danfonaf yrhain yn i myſc, dan erfyn ar ḍuụ ym<g ref="char:EOLunhyphen"/>hob gụeḍi a ụnelụyf ar ụrtheithio ho<g ref="char:EOLhyphen"/>no i calonnau nhụy i ḍerbyn aḍyſc, a rhoi nerth i chụithau i ſcrifennu chụa<g ref="char:EOLunhyphen"/>neg er ḷes i‘r Griſtnogion, a gogoniant i duụ.</p>
+            <closer>
+               <signed>O dref, Fylen noſụyl S. Nicolas.</signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:181236:5"/>
+            <head>Y PYNCIAV HYNOTTAF.</head>
+            <list>
+               <item>Rhaglụybr i‘r athraụaeth Griſtn. <hi>1.</hi>
+               </item>
+               <item>S. Chryſostomus, am arụyḍ y groc. <hi>3</hi>
+               </item>
+               <item>Nod Criſtio<g ref="char:cmbAbbrStroke">̄</g> a henụ Criſt, ai atrh. <hi>5</hi>
+               </item>
+               <item>Ynghylch arụyḍ y grog. <hi>8.</hi>
+               </item>
+               <item>Y pennod, y gụnaethbụyd dyn er i. <hi>11.</hi>
+               </item>
+               <item>Pedụar peth anghenrbaid <hi>11.</hi>
+               </item>
+               <item>Y Credo ai yſponiad. <hi>12.</hi>
+               </item>
+               <item>Doſparth ar o baith. <hi>22.</hi>
+               </item>
+               <item>Y pader ai yſponiad. <hi>23.</hi>
+               </item>
+               <item>Yr aue Maria ai ḍehengliad. <hi>28.</hi>
+               </item>
+               <item>Saue regina. <hi>31.</hi> Gụeḍio ar ſaint. <hi>32</hi>
+               </item>
+               <item>Doſparth ar Gariad perphaith. <hi>34.</hi>
+               </item>
+               <item>Doſparth ar ụeithredoeḍ da. <hi>36.</hi>
+               </item>
+               <item>Y deg gorchymyn, ai doſparth. <hi>37.</hi>
+               </item>
+               <item>Pump gorchymyn yr eglụys. <hi>46.</hi>
+               </item>
+               <item>y ſaith ſagrafen. <hi>50.</hi> yr ụyth ḍedu. <hi>55.</hi>
+               </item>
+               <item>Gụethredoeḍ y drugareḍ. <hi>57.</hi>
+               </item>
+               <item>Pymtheg dirgeḷeḍ yr arglụyḍ. <hi>57</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="song">
+            <pb n="1" facs="tcp:181236:5"/>
+            <head>RHAGLITH. S. ADROD i doụys vn ag megis oi lithio i‘r athraụaeth Gristnogaụl.</head>
+            <p>VEdi‘r plant dyfod i‘r vnḷe, yn gyn<g ref="char:EOLunhyphen"/>taf ymgroeſſed y meiſtr a phob vn o‘r ḷaiḷ heſyd: ag yna decreued dau o‘r be<g ref="char:EOLunhyphen"/>chgin ganu hynn yma ſyḍ yn canlyn.</p>
+            <lg>
+               <l>MAe‘n rhụymedig iaụn,</l>
+               <l>bob Criſtion phyḍlaụn,</l>
+               <l>berchi‘n grefyḍlaụn</l>
+               <l>y graulaụn grog.</l>
+            </lg>
+            <lg>
+               <l>Am i Criſt Ieſu,</l>
+               <l>arni yn prynnu,</l>
+               <l>a‘n gụared yn gu,</l>
+               <l>o gad euog.</l>
+            </lg>
+            <lg>
+               <l>A‘n tynnu trụy gred,</l>
+               <l>o faụr gaet hiụed,</l>
+               <pb n="2" facs="tcp:181236:6"/>
+               <l>Pechod oer dynged</l>
+               <l>du ang<g ref="char:EOLunhyphen"/>au log.</l>
+            </lg>
+            <lg>
+               <l>A‘n hachụb bob dyn,</l>
+               <l>o lau‘r drụg elyn,</l>
+               <l>Syḍ i‘n cas erlyn,</l>
+               <l>oerlais lidiog.</l>
+            </lg>
+            <lg>
+               <l>Vrthynn pob nifer,</l>
+               <l>a ḍylai ‘marfer,</l>
+               <l>bob gụaith ag amſer</l>
+               <l>ymſụyn ennụog.</l>
+            </lg>
+            <lg>
+               <l>Roi arụyḍ dirfaụl,</l>
+               <l>y grog fendig aụl,</l>
+               <l>tan ḍoedyd bob ſaụl</l>
+            </lg>
+            <lg>
+               <l>Sail gụaith pụyḷog:</l>
+               <l>yn enụ duụ y tad,</l>
+               <l>a‘r vnig fab mad,</l>
+               <l>a‘r yſpryd glanrad</l>
+               <l>rod odidog.</l>
+               <l>amen.</l>
+               <l>Ieſu, a mair</l>
+            </lg>
+         </div>
+         <div type="sermon">
+            <pb n="3" facs="tcp:181236:6"/>
+            <head>Chryſoſtomus Homel. <hi>55.</hi> in Matth.</head>
+            <p>Dygụn le cerḍom megis is coron yn laụe<g ref="char:cmbAbbrStroke">̄</g> yn calonnau groes Criſt. Canys honno ſyḍ yn cyfloụni pob peth ar y ſyḍ gynho<g ref="char:EOLunhyphen"/>rthụyaụl i‘n cadụedigaeth ni: oblygid pan ail enir ni, mae croes yr arglụyḍ yn breſſenol. Pan borthir ni a‘r ſantei<g ref="char:EOLhyphen"/>diaf fụyd pan fom meụn graḍ i gyſſe<g ref="char:EOLhyphen"/>gru ymhob ḷe ag amſer e fyḍ hynn o ar<g ref="char:EOLunhyphen"/>ụyd buḍygoliæth gida ni. Am hynny ni a ḍylem yn ḍyfal, ag yn yſtig oſſod y gro<g ref="char:EOLunhyphen"/>es yn y dirgel geḷyḍ o feụn y ty, ar y pa<g ref="char:EOLhyphen"/>rụydyḍ, ag yn y pheneſtri, ar yn talcen, ag yn yn calo<g ref="char:cmbAbbrStroke">̄</g>. Canys hụn ſyḍ arụyd o‘n catụedig aeth ni, o‘n cyphredinol ryḍid o ụarderoụgrụyḍ yn arglụyḍ ni.</p>
+         </div>
+         <div type="sermon">
+            <head>Ychydig ynol hynny.</head>
+            <p>Rhaid yụ guneuthur ḷun y groes nid
+<pb n="4" facs="tcp:181236:7"/> yn vnig a‘r y corph, eithr trụy phyḍ gadarn heſyd yn y galon. Canys os prin<g ref="char:EOLunhyphen"/>tid di y groes yn y moḍ hụnnụ, ni lef<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s yr un o‘r cythreulig yſprydion ymgyfar<g ref="char:EOLunhyphen"/>fod a thi, pan ụelo‘r gụaeụ a roes iḍo‘r archoḷ angheuaụl. s. y groes.</p>
+            <p>yr vn; Homel. de cruce dominica. Y groes ſyḍ obaith i‘r Criſtnoniog; ad<g ref="char:EOLhyphen"/>gyfodiad i‘r meiru, toụyſſyḍ i‘r dei‘i<g ref="char:EOLhyphen"/>on, phon i‘r cloph, cyſſur i‘r tylaụd, gen<g ref="char:EOLunhyphen"/>fa i‘r cyfoethog, dyſtroụiaeth i‘r tra<g ref="char:EOLhyphen"/>haus, penyd i‘r anfucheḍoḷ, gorfoleḍ yn erbyn diaụḷ, cynheiliaeth i‘r anghenus, tad i‘r ymḍiḍad, dyphynnyḍ i‘r ụedụ, cynghoryḍ ir cyfion, ſyluain i‘r eglụys, gụrthlaḍiad i‘r gauḍuụiau, nerth i‘r gụeiniaid, medig i‘r cleifion, bara i‘r neụynog, phynnon i‘r ſythedig.</p>
+         </div>
+         <div type="catechism">
+            <pb n="5" facs="tcp:181236:7"/>
+            <head>Athraụaeth Griſtnogaụḷ.</head>
+            <div type="section">
+               <argument>
+                  <p>Ynghylch henụ Criſtion, a‘r nod ſyd i adnabod Criſtion ụrtho, a henụ Criſt, ai athraụaeth Griſtnogaụl.</p>
+               </argument>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>
+                     <hi>A</hi> ydychụi yn Griſtion?</p>
+               </sp>
+               <sp>
+                  <speaker>D.</speaker>
+                  <p>ụyf drụy rad yn hargluyḍ ni Ieſu Griſt. </p>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>Paha<g ref="char:cmbAbbrStroke">̄</g> y doedụch trụy rad Ieſu Ghriſt?</p>
+               </sp>
+               <sp>
+                  <speaker>D.</speaker>
+                  <p>am na chefais fod yn Griſtio<g ref="char:cmbAbbrStroke">̄</g> o herụyd heu ḍu onofi hynny o urḍas, na<g ref="char:cmbAbbrStroke">̄</g> tad chụa<g ref="char:EOLhyphen"/>ith, nam mam, na chreadur yn y byd: eithr trụy ḍaioni duụ a heuḍiant Criſt </p>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>beth ydyụ Criſtio<g ref="char:cmbAbbrStroke">̄</g>? </p>
+               </sp>
+               <sp>
+                  <speaker>D.</speaker>
+                  <p>diſcibl i Griſt. s. vn ſyd ụedi fedyụio, ag yn prypheſſu i gyfraith ef prypheſſu cyfraith Griſt yu aḍe fod yn i gụybod, ag aḍaụ i cha<g ref="char:EOLhyphen"/>dụ </p>
+               </sp>
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>Para oruchafiaeth, ne deilyng<g ref="char:EOLhyphen"/>daụd a caiph dyn ụrth i ụneuthur yn Griſtion? </p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>ef ai gụnair yn fab y ben<g ref="char:EOLhyphen"/>dith,
+<pb n="6" facs="tcp:181236:8"/> yn anſſoḍfab duụ, ag yn etifeḍ i deyrnas nef. </p>
+               </sp>
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>beth am hụnnụ nid yd<g ref="char:EOLunhyphen"/>yụ yn Griſtion? </p>
+               </sp>
+               <sp>
+                  <speaker>D</speaker>
+                  <p> mae ef yn trigo yn fab y meḷdith yn gaethụas i ḍiaụl ụed' i‘ḍifeḍu o‘tifidiæth nef. </p>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>beth ydyụ Criſt?</p>
+               </sp>
+               <sp>
+                  <speaker>D.</speaker>
+                  <p>Gụir duụ, a gụir ḍyn. </p>
+               </sp>
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>beth y mae‘r gair, Criſt, yn i arụyḍhau yn y gymraeg?</p>
+               </sp>
+               <sp>
+                  <speaker>D.</speaker>
+                  <p>einniaụg.</p>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>Paham? </p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>arfer oeḍ einniaụ brenhinoeḍ ụrth i co ro<g ref="char:cmbAbbrStroke">̄</g>i, ag ennaint corphorol, ag feḷy yphe<g ref="char:EOLhyphen"/>iriaid, a phrophụydi ụrth i hurḍaụ ag am fod Criſt yn frenin yụch be<g ref="char:cmbAbbrStroke">̄</g> pob bre<g ref="char:EOLunhyphen"/>nin, yn ypheiriad yụch hen pob ypheiri<g ref="char:EOLhyphen"/>ad, yn brophụyd yuch ben hoḷ brophụy<g ref="char:EOLunhyphen"/>di, ef ai einniụyd ef, ag ennaint yụch be<g ref="char:cmbAbbrStroke">̄</g>n pob ennaint. ſ. a chyflloụnrụyḍ graſ yr yſpryd glan, am hyn y gelụir ef Chri<g ref="char:EOLunhyphen"/>ſtus, ne vnctụs. ſ. yr einniaụg: o herụyḍ darfod i einniaụ ef ag ennaint mor o<g ref="char:EOLhyphen"/>didog,
+<pb n="7" facs="tcp:181236:8"/> ag meụn graḍ berpheithiach no neb araḷ.</p>
+               </sp>
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>beth y mae y gair, Ieſu, yn i arụydhau?</p>
+               </sp>
+               <sp>
+                  <speaker>D.</speaker>
+                  <p>Ceidụad am iḍo yn ca<g ref="char:EOLhyphen"/>du ni, trụy yn prynnu ai ụyrthf aụr ụa<g ref="char:EOLhyphen"/>ed, a dyſgụ ynny lụybr y gadụedigaeth s y phorḍ i baradụys ụrth roḍi athraḍ<g ref="char:EOLhyphen"/>aeth Griſtnog<g ref="char:EOLunhyphen"/>aụl in hyphorḍi ni</p>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>Pa beth yu‘r athraụaeth Griſtnogaụl.</p>
+               </sp>
+               <sp>
+                  <speaker>D.</speaker>
+                  <p>yr aḍyſc a roes Criſt yn harglụyd ni yn<g ref="char:EOLhyphen"/>ny ai ụeithredoeḍ yn gyntaf, ag vedi hynny ai eiriau: athraụaeth Griſtnoga<g ref="char:EOLunhyphen"/>ụl hefyd yụ honno a ḍarfu i‘r gatholig fam eglụys Rufain i dyſgu ynny.</p>
+               </sp>
+               <div type="exhortation">
+                  <head>Anghoriad.</head>
+                  <sp>
+                     <p>A. ụrthynny fy meibion yſtyriụch mor rhụymedig ydych i ḍilyn yn harglụyḍ ni Ieſụ Griſt, ar ych gụeithredoeḍ, gan gymryd onoch ych henụ ga<g ref="char:cmbAbbrStroke">̄</g>tho, a rhoḍi onofo ychụi gymaint o ras.</p>
+                  </sp>
+               </div>
+            </div>
+            <div type="section">
+               <pb n="8" facs="tcp:181236:9"/>
+               <head>Ynghlch aruyḍ y grog lan.</head>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>Paryụ nod, ne arụyḍ ſyḍ i adnabod Criſtion ụrtho?</p>
+               </sp>
+               <sp>
+                  <speaker>D.</speaker>
+                  <p>Arụyḍ y grog la<g ref="char:cmbAbbrStroke">̄</g>.</p>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>Paham?</p>
+               </sp>
+               <sp>
+                  <speaker>D.</speaker>
+                  <p>am i Ieſu Griſt yn prynnu ni arni.</p>
+               </sp>
+               <sp>
+                  <speaker>A</speaker>
+                  <p>Pafoḍ y mae gụneuthur yr arụyḍ yma?</p>
+               </sp>
+               <sp>
+                  <speaker>D.</speaker>
+                  <p>yn gyntaf rhoḍer y ḷaụ ar y penn, ag ar y corph, ụedi hynny ar yr yſcụyḍ aſſụ a‘r ḍehau, tan ḍoedyd: yn enu‘r tad, a‘r mab, a‘r yſpryd glan. amen. Ieſu.</p>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>Paham y gụnair hi yn y moḍ yma?</p>
+               </sp>
+               <sp>
+                  <speaker>D.</speaker>
+                  <p>i arụydhau dau o faụr ḍirgeleḍio<g ref="char:cmbAbbrStroke">̄</g> duụ, vn o‘r ſanteiḍiaf drin<g ref="char:EOLunhyphen"/>daụd, ar aḷ ynghylch ymgnoụdoliaeth yn harglụyḍ ni Ieſu Griſt.</p>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>Pafoḍ?</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>ụrth henụi‘r tad ar y penn, yr arụydhe<g ref="char:EOLunhyphen"/>ir i fod el yn ḍechreuad i‘r perſonau e<g ref="char:EOLhyphen"/>raiḷ: ụrth hennụi‘r mab ar y corph yr yſpyſsir i ḍyfod ef o‘r tad; Pan gofbeir yr yſpryd glan, o‘r naiḷ yſcụyḍ i‘r ḷaḷ, y
+<pb n="9" facs="tcp:181236:9"/> deueḷtir i fod ef yn dyfod o‘r tad a‘r mab</p>
+               </sp>
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>Paham y gụnair hynn yn gro<g ref="char:EOLhyphen"/>es?</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>i arụyḍhau y dirgeleḍ ar aḷ. s. ḍar<g ref="char:EOLunhyphen"/>fod i fab duụ ụedi ụneuthur yn ḍyn yn prinnu ni ar groes. Ag feḷy y geḷir doe<g ref="char:EOLunhyphen"/>dyd fod aruyḍ y grog a ụnaụn ni ụrth ymgroeſsi, megis crynodeb o‘n phyḍ ni:</p>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>Pabryd y dylem arfer yr arụyḍ y<g ref="char:EOLhyphen"/>ma?</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>D.</hi> 
+                  </speaker>
+                  <p>Pan dechreuom ụaith yn y byd, a phan fythom meụn cyfyngdid ag an<g ref="char:EOLunhyphen"/>gen: yn anụedig ụrth godi o‘n gụely, ụr<g ref="char:EOLunhyphen"/>th fyned aḷan o‘r ty, ne ụrth fynd i‘r eglụys, ne i fụytta ne i gyſcu.</p>
+               </sp>
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>Paha<g ref="char:cmbAbbrStroke">̄</g> cyn fynyched?</p>
+               </sp>
+               <sp>
+                  <speaker>D.</speaker>
+                  <p>er mụyn cael gan ḍuụ ymhob ḷe ag amſer yn cadụ rhag yn ge<g ref="char:EOLunhyphen"/>lynion, hefyd i drefnu ag vnioni pob gụeithred a ụnelom, yn anrhydeḍ a gogoniant i duụ.</p>
+               </sp>
+               <div type="subsection">
+                  <pb n="10" facs="tcp:181236:10"/>
+                  <head>A drybeḍ o arfer, a henafiaeth arụyḍ y groc fendiged.</head>
+                  <sp>
+                     <p>Yr ydys yn arfer arụyḍ y groc lan o ḍe<g ref="char:EOLhyphen"/>chreuad y gyſſefiniaụl eglụys, ag o a<g ref="char:cmbAbbrStroke">̄</g>ſer yr aboſtolion hyd yroụron: mal y mae‘n eglur ụrth lyfr Tertullianus, de co<g ref="char:EOLhyphen"/>rona militis. yr vn peth a dyſtlaetha, S. Aụgụſ. Serm. de te<g ref="char:cmbAbbrStroke">̄</g>pore <hi>181.</hi> in Eua<g ref="char:cmbAbbrStroke">̄</g> gelium Ioan. tract. <hi>118.</hi> in pſal. <hi>30.</hi> co<g ref="char:cmbAbbrStroke">̄</g>
+                        <g ref="char:EOLhyphen"/>cione <hi>2.</hi> in pſal. <hi>141.</hi> Et de Sanctis ſer<g ref="char:EOLunhyphen"/>mone <hi>19.</hi> S. Chryſoſt. Homel. <hi>13.</hi> in epi<g ref="char:EOLunhyphen"/>ſtola<g ref="char:cmbAbbrStroke">̄</g> ad Philip. S. Baſilius, yn i lyfr de ſpiritu Sancto cap. <hi>27.</hi> hefyd ụrth fedyḍio, a rhoi‘r bedyḍ eſcob, annoger a chynghorer nhụy pan vnelont arụyḍ y grog, i ụneuthur ef, yn hybarchus, da<g ref="char:cmbAbbrStroke">̄</g> yſtyriaụ yn dụſn y dirgelion a ḍoedaſ<g ref="char:EOLhyphen"/>ſom, a gụilio rhag gụneuthur hynn heb fedụl am ḍim mal y ma‘er arfer fyny<g ref="char:EOLunhyphen"/>chaf ymyſg ḷaụer.</p>
+                  </sp>
+               </div>
+            </div>
+            <div type="section">
+               <pb n="11" facs="tcp:181236:10"/>
+               <head>Ynghylch y diụeḍ a‘r pennod ſyḍ i Gri<g ref="char:EOLhyphen"/>ſtion a‘r pethau angenrheidiaụl iḍo i gyrheuḍyd i bennod.</head>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>Mae‘r diụeḍ y creaụḍ duụ ḍyn iḍo? </p>
+               </sp>
+               <sp>
+                  <speaker>D.</speaker>
+                  <p>i Garu, ag i ụaſuaethu duụ yn y byd yma, achụedi oi ụeled, ag oi fụynhau yn, y byd ſyḍ yn doụad, a hynny a fyḍ yn gụnfyd pennaf ni </p>
+               </sp>
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>Peſſaụl peth ſyḍ raid i Griſtion ụrthynt i aḷu cyrrheu<g ref="char:EOLhyphen"/>ḍyd y pennod a oſſodes duụ iḍo, ag oi gadụ drụy i cynhorthụy. </p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>Pedụar, phyḍ, gobaith, perpheithſerch a gụeith<g ref="char:EOLhyphen"/>redoeḍ da. </p>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p> beth yrydychụi yn i gre<g ref="char:EOLhyphen"/>du trụy nerth y phyḍ?</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>Cubl o hynny mae‘r ſantaiḍ fam eglụys Rufain yn i ḍal, ai gredu: ag yn bennaf hynny ſyḍ yn y gredo.</p>
+               </sp>
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>doụed y gredo</p>
+               </sp>
+               <sp>
+                  <speaker>D.</speaker>
+                  <pb n="12" facs="tcp:181236:11"/>
+                  <l n="1">Credo in Deum patrem omnipo<g ref="char:EOLhyphen"/>tentem, creatorem cœli et terræ.</l>
+                  <l n="2">Et in Ieſum Chriſtum filiu<g ref="char:cmbAbbrStroke">̄</g> eius vnicum, dominum nostrum.</l>
+                  <l n="3">Qui conceptus eſt de ſpiritu San<g ref="char:EOLunhyphen"/>cto, Natus ex Maria virgine.</l>
+                  <l n="4">Paſſus ſub Pontio Pilato, Crucifi<g ref="char:EOLunhyphen"/>xus, mortuus, &amp; ſepultus.</l>
+                  <l n="5">Deſcendit ad inferos, Tertia die reſurrexit a mortuis.</l>
+                  <l n="6">Aſcendit ad cœlos, ſedet ad dex<g ref="char:EOLhyphen"/>ra<g ref="char:cmbAbbrStroke">̄</g> dei patris omnipotentis.</l>
+                  <l n="7">Inde venturus eſt Iudicare vi<g ref="char:EOLhyphen"/>uos &amp; mortuos.</l>
+                  <l n="8">Credo in ſpiritum Sanctum.</l>
+                  <l n="9">Sanctam eccleſiam Catholicam: Sanctorum co<g ref="char:cmbAbbrStroke">̄</g>munionem</l>
+                  <l n="10">Remiſsionem peceatorum</l>
+                  <l n="11">Carnis reſurrectionem</l>
+                  <pb n="13" facs="tcp:181236:11"/>
+                  <l n="12">Vitam æternam. Amen.</l>
+               </sp>
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>doụed hi yn Gymraeg.</p>
+               </sp>
+               <sp>
+                  <speaker>D.</speaker>
+                  <l n="1">Ruy fi‘n credu yn Nuụ‘r tad, ho<g ref="char:EOLunhyphen"/>ḷaḷḷuaụl, creaụdr nef a daear.</l>
+                  <l n="2">Ag yn Ieſu Griſt i vnig fab ef yn harglụyḍ ni.</l>
+                  <l n="3">Yr hụn a ennilụyd o‘r ysbryd gla<g ref="char:cmbAbbrStroke">̄</g>, a anụyd o fair forụyn</l>
+                  <l n="4">A ḍioḍefoḍ dan Bontius Pilatus a groeshoeliụyd, a fu farụ ag a glaḍụyd</l>
+                  <l n="5">A ḍiſcynoḍ i vphern, y trydyḍ dyḍ a godoḍ a farụ i fyụ</l>
+                  <l n="6">A‘ſcynoḍ i‘r nefoḍ, ſy‘n eiſteḍ ar ḍeheulaụ duụ‘r tad holaḍuaụl.</l>
+                  <l n="7">Oḍiyna a ḍaụ i farnu‘r byụ a‘r meirụ.</l>
+                  <l n="8">Rụy fi‘n credu yn yr ysbryd glan.</l>
+                  <l n="9">Yr eglụys lan Gatholig, cyphredi<g ref="char:EOLhyphen"/>nrụyd y Saint.</l>
+                  <pb n="14" facs="tcp:181236:12"/>
+                  <l n="10">Coḷyng dod pechodau.</l>
+                  <l n="11">Adgyfodiad y cnaụd</l>
+                  <l n="12">Y boụyd tragụḍol. Amen.</l>
+               </sp>
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>Beth a ḍoedaſommi ynaụr?</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>y Gredo.</p>
+               </sp>
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>Pụy a ụnaeth y Gredo?</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>y deuḍeg Abostol, pan oeḍen ar fyned i bregethu‘r efengil trụyr hoḷfyd.</p>
+               </sp>
+               <sp>
+                  <speaker>A</speaker>
+                  <p>Pa<g ref="char:EOLunhyphen"/>ham y gụnaethont hụy hi?</p>
+               </sp>
+               <sp>
+                  <speaker>D </speaker>
+                  <p>I‘n dyſcu a‘n hyphorḍi ni yn y phyd.</p>
+               </sp>
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>Beth ydis yn i gynhụyſo yn y Gredo?</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>deuḍeg pụnc .ſ. deuḍeg rhan benaf o‘r phyḍ</p>
+               </sp>
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>At bụy mae‘n ꝑthyn y pynciau yma?</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>y cyntaf at y tad: a‘r chụech pụnc, ſy‘n canlyn, at y mab; a‘r pum diuaet<g ref="char:EOLhyphen"/>haf at yr ysbryd glan.</p>
+               </sp>
+               <div type="explication">
+                  <head>Doſparth, ne yſponiad y Gredo.</head>
+                  <sp>
+                     <speaker>A</speaker>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">ysponiad </seg>1</label>
+                        <hi>1</hi> ymhụy rụy ti yn credu?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D. </speaker>
+                     <p>Rụy fi‘n credu yn Nuụ, yr hụn yụ‘r ſantei<g ref="char:EOLhyphen"/>ḍiaf
+<pb n="15" facs="tcp:181236:12"/> drindod.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A.</speaker>
+                     <p>beth <g ref="char:V">Ʋ</g>y ti yn i ḍealt vrth ḍoedyd y ſanteiḍiaf drindod?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D. </speaker>
+                     <p>y tad, a‘r mab, a‘r ysbryd glan, tri pher<g ref="char:EOLhyphen"/>ſon ag vn duụ yn vnig</p>
+                  </sp>
+                  <sp>
+                     <speaker>A.</speaker>
+                     <p>a ydiụ‘r tad yn ḍuụ?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D. </speaker>
+                     <p>ydiụ.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A. </speaker>
+                     <p>a ydiụ‘r mab yn ḍuụ?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D. </speaker>
+                     <p>ydiụ A. a ydiụ‘r ysbryd glan yn ḍuụ?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D. </speaker>
+                     <p>ydiụ A.a oes tri duụ?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D. </speaker>
+                     <p>nag oes, er i bod yn ụahanedig berſon<g ref="char:EOLhyphen"/>au, nid oes er hyny ond vn duụ</p>
+                  </sp>
+                  <sp>
+                     <speaker>A. </speaker>
+                     <p>Pa<g ref="char:EOLhyphen"/>ham y gelụir ef, duụ?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D. </speaker>
+                     <p>am i fod yn gụeled, yn arlụy ag yn trefnu pob peth, megis arglụyd a ḷyụodraethụr o‘r cụbl</p>
+                  </sp>
+                  <sp>
+                     <speaker>A. </speaker>
+                     <p>Mae‘r gyphlybiæth a roụchụi ymy o‘r santeidiaf drindod?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D. </speaker>
+                     <p>Mae oi ụe<g ref="char:EOLunhyphen"/>led ynomi a creaụd duụ ar i lun a ḍe<g ref="char:EOLhyphen"/>lụ i hunan, un enaid yn vnig, a thri ga<g ref="char:EOLunhyphen"/>ḷu. ſ.deuaḷeḍ i ḍeualt, cofeḍ i ḍal meụn cof y pethau a ḍeuheḷir, eụylyſſeḍ, i chụennychu y pethau a ḍeuhaḷer ag a
+<pb n="16" facs="tcp:181236:13"/> fedylier i bod yn ḍa. Ag megis y mae‘r enaid yn vn o ſylụeḍ, yn dri o aḷu, feḷy y mae‘r santeiḍiaf drindod yn vn duụ, ag yn dri pherſon.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A. </speaker>
+                     <p>Pụy a greaụḍ y nef a‘r ḍaear o ḍim?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D. </speaker>
+                     <p>duụ‘r tad, a‘r mab, a‘r yſpryd glan.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A. </speaker>
+                     <p>Paham y ge<g ref="char:EOLhyphen"/>lụir ef hoḷaḷuaụl.</p>
+                  </sp>
+                  <sp>
+                     <speaker>D. </speaker>
+                     <p>Am i fod ef yn a<g ref="char:EOLhyphen"/>bl, yn vnig ai eụyḷyſſed ag ai aḷueḍ i hun, i ụneuthur ag i ḍadụneuthur pob peth.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A.</speaker>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">ysponiad </seg>2</label>
+                        <hi>2</hi>a ụyti yn credu yn Ieſu Griſt?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D.</speaker>
+                     <p>ydyụ</p>
+                  </sp>
+                  <sp>
+                     <speaker>A.</speaker>
+                     <p>Pụy yụ Ieſu Griſt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>D.</speaker>
+                     <p>Mab duụ‘r tad yn gymaint ag yn gydraḍ ai dad o rym, doethineb, a da<g ref="char:EOLhyphen"/>ioni: ag ai gụnaeth i hun yn ḍyn, er yn mụyn ni, yngrhoth yr ogoneḍus fair fo<g ref="char:EOLunhyphen"/>ruyn. </p>
+                  </sp>
+                  <sp>
+                     <speaker>A.</speaker>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">ysponiad </seg>3</label>
+                        <hi>3</hi>Pa foḍ y gụnaethbuyd hy<g ref="char:EOLunhyphen"/>nn?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D.</speaker>
+                     <p>nid trụy ụaith dyn, eithr trụy nerth a rhad yr yspryd glan tan drigo oni hi yn forụyn cyn eſcor, ụrth eſcor,
+<pb n="17" facs="tcp:181236:13"/> ag ynol eſcor. ag feḷy yn y nef nid oes ge<g ref="char:cmbAbbrStroke">̄</g>
+                        <g ref="char:EOLunhyphen"/>tho mo‘r fam, ar y ḍaear nid oes gan<g ref="char:EOLhyphen"/>tho mo‘r tad.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A.</speaker>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">ysponiad </seg>4</label>
+                        <hi>4</hi> Paham y rhoeſſụ<g ref="char:EOLhyphen"/>yd ef ar y groes, a pham y bu ef farụ ag i claḍụyd ef?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D.</speaker>
+                     <p>o gariad i ni, i‘n rh<g ref="char:EOLunhyphen"/>yḍhau aḷan o‘n pechodau, a dụylaụ‘n gelynion: a‘n hachub rhag angau tra<g ref="char:EOLhyphen"/>gụḍaụl, ag vphern, ag ermụyn hynn i prynnoḍ ef ni ai ụerthfaụr ụaed, ar y prenn croes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A.</speaker>
+                     <p>
+                        <g ref="char:V">Ʋ</g>rthyny roeḍem yn aḷ<g ref="char:EOLhyphen"/>dudion, ag ef a ḍarfu iḍo yn prynu ni.</p>
+                  </sp>
+                  <sp>
+                     <speaker>D.</speaker>
+                     <p>oeḍem yn ụeiſion i‘n pechod nyhun, ag yn aḷdudiaid i ḍiaụl.</p>
+                  </sp>
+               </div>
+               <div type="subsection">
+                  <head>Rhybyḍ.</head>
+                  <sp>
+                     <p>Yma geḷir dangos a datglurio pechod yn tad cynta ni, a‘r phrụythau, a‘r ma<g ref="char:EOLhyphen"/>ḍr drueni ſyḍ ụedi dyfod drụy‘r pec<g ref="char:EOLhyphen"/>hod hụnụ, ag mor faụr rụymedig ydy<g ref="char:EOLhyphen"/>m i Griſt yn prynnụr.</p>
+                  </sp>
+                  <pb n="18" facs="tcp:181236:14"/>
+                  <sp>
+                     <speaker>A.</speaker>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">ysponiad </seg>5</label>
+                        <hi>5</hi> Pa beth a ụenaeth Criſt yn arg. N. pan ḍiſcynoḍ ef i uphern?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D.</speaker>
+                     <p>ef a dynoḍ aḷan eneidiau‘r Patrieirch a‘r tadau bendigedig, a‘r eneidiau ſanta<g ref="char:EOLunhyphen"/>iḍ oeḍent yn i limbo, yn aros dan ydry<g ref="char:EOLunhyphen"/>ch am i doụediad ſantaiḍ ef.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A.</speaker>
+                     <p>Paḍe<g ref="char:EOLhyphen"/>lḍ y codoḍ ef y trydyḍ dyḍ?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D.</speaker>
+                     <p>E godoḍ o farụ i fyụ meụn corph ag enaid go<g ref="char:EOLhyphen"/>neḍus mal na bytho mụy farụ. </p>
+                  </sp>
+                  <sp>
+                     <speaker>A.</speaker>
+                     <p>Pa<g ref="char:EOLhyphen"/>ḍelụ dyrchafoḍ ef i‘r nef, ag y mae‘n eiſteḍ ar ḍeheulaụ ḍuụr tad? </p>
+                  </sp>
+                  <sp>
+                     <speaker> D.</speaker>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">ysponiad </seg>6</label> 6 E ḍyrchafoḍ ụedi deugai<g ref="char:cmbAbbrStroke">̄</g> nhiurnod uch<g ref="char:EOLunhyphen"/>laụ pob nef, a‘r hoḷ angylio<g ref="char:cmbAbbrStroke">̄</g>, drụy i rym, ai aḷu i hunan, yn ḷe mae‘n trigo yn i faụr ogoniant, megis mab duụ.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A. </speaker>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">ysponiad </seg>7</label>
+                        <hi>7</hi>Paḍelụ daụ ef o diyna i farnu‘r byụ a‘r meirụ? </p>
+                  </sp>
+                  <sp>
+                     <speaker>D.</speaker>
+                     <p>Dyḍ y farn yr hụn a fyḍ yn niụed y byd, ef a ḍaụ o‘r nef meụn moụroliaeth, a gaḷu, a‘r yngylion a‘r ſa<g ref="char:EOLunhyphen"/>int
+<pb n="19" facs="tcp:181236:14"/> yn ụaetio arno, i farnụ‘r hoḷ ḍynio<g ref="char:cmbAbbrStroke">̄</g>, ag i roi i bobun yn ol i gụeithredoeḍ.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A.</speaker>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">ysponiad </seg>8</label>
+                        <hi>8 A</hi> ụyti yn credu yn yr yſpryd gla<g ref="char:cmbAbbrStroke">̄</g>.</p>
+                  </sp>
+                  <sp>
+                     <speaker> D.</speaker>
+                     <p>Ydụyf, i fod ef yn ụir ḍuụ y trydyḍ perso<g ref="char:cmbAbbrStroke">̄</g> o‘r ſantiḍiaf drindod, yr hụn ſyḍ yn rhoi oi ras, ai roḍion i‘r ſanteiḍiol eglụys Gatholig.</p>
+                  </sp>
+                  <sp>
+                     <speaker> A. </speaker>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">ysponiad </seg>9</label>
+                        <hi>9</hi>Pa beth yụr ſan<g ref="char:EOLunhyphen"/>teiḍiol eglụys Gatholig?</p>
+                  </sp>
+                  <sp>
+                     <speaker> D.</speaker>
+                     <p>yr hoḷ gyni<g ref="char:EOLunhyphen"/>ḷeidfa o‘r phydlon griſtnogion, ſyḍ yn meḍu, ag yn cypheſu phyḍ Ieſu Griſt, a phen hon yụ Criſt i hunan, a‘r pab i fi<g ref="char:EOLhyphen"/>car ar y ḍaear.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A </speaker>
+                     <p>a‘r neb nid vfyḍha i‘r eglụys, pa niụed aḍaụ iḍo?</p>
+                  </sp>
+                  <sp>
+                     <speaker> D.</speaker>
+                     <p>y ſa<g ref="char:EOLhyphen"/>ụl ni fyn mo‘r eglụys yn fam, ni chai<g ref="char:EOLhyphen"/>ph ef mo ḍuụ iḍo yn dad.</p>
+                  </sp>
+                  <sp>
+                     <speaker> A.</speaker>
+                     <p>Beth ụyti yn i ḍealt ụrth ḍoeḍyd cyphredinrụyd y ſaint?</p>
+                  </sp>
+                  <sp>
+                     <speaker> D.</speaker>
+                     <p>fod cụbl o‘rhain a‘r y ſyḍ yn yr eglụys yma, yn cael rhan ynghyd o‘r aberthau, a‘r ſagrafenau, ag o‘r gụe<g ref="char:EOLhyphen"/>thredoed
+<pb n="20" facs="tcp:181236:15"/> da yr ydis yn i ụneuthur yn<g ref="char:EOLhyphen"/>ḍi hi megis ag y mae meụn vn corph, vn aelod yn gyfranol o rhinụeḍ a ga<g ref="char:EOLhyphen"/>lụ‘r ḷaḷ.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A. </speaker>
+                     <p>Paḍelụ y geḷir rhyḍhau pe<g ref="char:EOLhyphen"/>chodau?</p>
+                  </sp>
+                  <sp>
+                     <speaker> D.</speaker>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">ysponiad </seg>10</label>
+                        <hi>10</hi> E ryḍheir pechodau drụy ryglyḍiad dioḍefaint yn harg. N. Ieſu Griſt a‘r ſagrafennau bendige<g ref="char:EOLhyphen"/>dig ſyḍ gyfryngau i hynny, trụy ụneu<g ref="char:EOLhyphen"/>thur o honomi y pethau ydym rụyme<g ref="char:EOLhyphen"/>dig.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A.</speaker>
+                     <p>A‘r neb ni aḷ gymeryd y ſacra<g ref="char:EOLhyphen"/>fenau?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D.</speaker>
+                     <p>Digon iḍo i eḍuned, ai eụlys oi cymeryd, da<g ref="char:cmbAbbrStroke">̄</g> ụneuthur cimaint ag a ḷo: a hynny mae ef yn rhụymedig oi ụn euthur.</p>
+                  </sp>
+                  <sp>
+                     <speaker> A. </speaker>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">ysponiad </seg>11</label>
+                        <hi>11</hi> Paḍelụ y byḍ cyfodiad y cnaụd.</p>
+                  </sp>
+                  <sp>
+                     <speaker>D.</speaker>
+                     <p> Dyḍ y farn y cyfyd pob ma<g ref="char:EOLunhyphen"/>rụ yn i gorph ai enaid, y rhai da yn ogo<g ref="char:EOLunhyphen"/>nedus, ag yn deg, a‘rhai drụg yn ụrth<g ref="char:EOLhyphen"/>ụyneb i rhain. ſ. yn hagar, ag yn druain Yma geḷir eſpyſu a dangos gogoniant
+<pb n="21" facs="tcp:181236:15"/> yr adgyfodiad, a‘r cyrph gogonedus, a chynyſgeḍau‘r eneidiau. &amp; cet.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A.</speaker>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">ysponiad </seg>11</label>
+                        <hi>12</hi> Pa beth yụ‘r boụyd tragụḍol?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D.</speaker>
+                     <p>Gogo<g ref="char:EOLunhyphen"/>niant paradụys. ſ. gụeled a mụynhau duụ i gael yn dragụḍol bob daioni; a heb ḍim drụg, i‘r ḷe hu<g ref="char:cmbAbbrStroke">̄</g>n yr aiph y rhai da, a‘rhai drụg ant i dan a phoenau tragụḍol yn uphern.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A. </speaker>
+                     <p>a phụy ſy‘n my<g ref="char:EOLhyphen"/>ned i boenau‘r purdan?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D.</speaker>
+                     <p>Eneidiau‘r heini a fuont farụ yngras duụ, ag ni ḍarfu iḍynt ụneuthur cubliaụn am i pechodau: a chụedi iḍynt ụneuthụr i penyd deledus nhụy a ganfyned i bara dụys.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A. </speaker>
+                     <p>beth yụ doedyd. Amen.</p>
+                  </sp>
+                  <sp>
+                     <speaker>D. </speaker>
+                     <p>fely i bo ụrth hyny fy feibion ymorolụch yn ḍyfal am ụaſnaethu yn har. N. Ieſu Griſt, fal y byḍoch ymyſc y da ai ḍetho<g ref="char:EOLunhyphen"/>lion ef, ag nad eloch ḍim cida‘r drụg i uphern.</p>
+                  </sp>
+               </div>
+            </div>
+            <div type="section">
+               <pb n="22" facs="tcp:181236:16"/>
+               <head>O‘r ail beth anghenrheidiaụl i Griſtio<g ref="char:cmbAbbrStroke">̄</g> ſe‘f yụ hyny, o ohaith.</head>
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>beth ydychụy yn i ḍysſcụyl gan duụ, drụy obaith, ſyḍ gennych arno?</p>
+               </sp>
+               <sp>
+                  <speaker>D.</speaker>
+                  <p>y boụyd, a‘r einioes dragụḍol. ag i enniḷ bonn, gras duụ ſyḍ bennaf, ynol hụn mae‘r rhyglydiannau, ſyḍ trụy nerth yr vnrhyụ ras o‘n rhan ni yn dyfod, yn help faụr</p>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>beth ſyḍ raid ụrtho i yniḷ y pethau ydym yn i gobaith?</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>ymyſc eraiḷ Gụeḍi ſyḍ anhepcor.</p>
+               </sp>
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>pa ụeḍi mæ‘r eglụys yn i ḍyſcu i ni?</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>y pader Aue Maria, Salue regina, ag eraiḷ</p>
+               </sp>
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>dyụed y pader.</p>
+               </sp>
+               <sp>
+                  <speaker>D.</speaker>
+                  <p>Pater noſter, qui es in cœlis, ſanctificetur nomen tuum: Ad<g ref="char:EOLhyphen"/>ueniat regnum tuum, Fiat voluntas tua, ſicut in coelo &amp; in terra. Pane<g ref="char:cmbAbbrStroke">̄</g> no<g ref="char:EOLhyphen"/>ſtrum quotidianum da nobis hodie. Et dimitte nobis debita noſtra ſicut et nos
+<pb n="23" facs="tcp:181236:16"/> dimittimus debitoribus noſtris, Et ne nos inducas in tentationem ſed libera nos a malo, Amen.</p>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>pa un yụ‘r gofy<g ref="char:EOLhyphen"/>niad cyntaf?</p>
+               </sp>
+               <sp>
+                  <speaker>D</speaker>
+                  <p>hụn yụ ef, yn tad ni yr hụn ụyt yn y nefoeḍ: ſanteiḍier dy henụ di. yr ail arch yụ; delid dy deyrnas di, y <hi>3</hi> arch yụ, gụneler, ḍy‘ụḷys di, megis yn y nef, hefyd a‘r y ḍaear. y pedụareḍ, Dod i ni heḍiụ yn bara beunyḍol. y pumed dyſyfiad yụ, a maḍe i ni yn dyle<g ref="char:EOLhyphen"/>dion, megis ag yr ydymine yn maḍe i‘n deledụyr, y chụeched erfynniad yụ, ag na ḍụg nyni i brofedigeth. y ſeithfed arch yụ, o<g ref="char:cmbAbbrStroke">̄</g>d gụared ni rhag ḍrug. Ame<g ref="char:cmbAbbrStroke">̄</g>.</p>
+               </sp>
+            </div>
+            <div type="section">
+               <head>Ynghylch y ụeḍi o‘r pader.</head>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>pabeth a ḍarfu i ni ḍoedyd y naụr?</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>y pader.</p>
+               </sp>
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>pụy a ụnaeth y pader?</p>
+               </sp>
+               <sp>
+                  <speaker>D.</speaker>
+                  <p> yn harg. N. Ieſu Griſt, yr hụn ai doe<g ref="char:EOLhyphen"/>doḍ ai enau i hunan.</p>
+               </sp>
+               <sp>
+                  <speaker>A</speaker>
+                  <p>Paham y gụ<g ref="char:EOLhyphen"/>naeth
+<pb n="24" facs="tcp:181236:17"/> ef y pader.</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>i ḍyſcu i ni ụeḍio?</p>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>ụrth bụy yr ydis yn doedyd yn y ụeḍi honn?</p>
+               </sp>
+               <sp>
+                  <speaker>D.</speaker>
+                  <p>ụrth yr arglụyḍ ḍuụ.</p>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>
+                     <hi>A</hi> oes gụeḍi araḷ ụeḷ na hi?</p>
+               </sp>
+               <sp>
+                  <speaker>D.</speaker>
+                  <p>nag oes, hon ſyḍ odidaụg ag yn rhagori, yn gyntaf o achos gụneuthur o Griſt. yn harg. <hi>N.</hi> y hi ai thraethu oi ḍiſcihlio<g ref="char:cmbAbbrStroke">̄</g>; a hefyd am yn bod ni yn gofyn yn hon y pethau penaf a ḍylem i gofyn.</p>
+               </sp>
+               <div type="explication">
+                  <head>Ysboniad y pader.</head>
+                  <sp>
+                     <speaker>A.</speaker>
+                     <p>beth ydis yn i ụneuthur yn y rhan gyntaf yma; pater noſter qui es in cœ<g ref="char:EOLhyphen"/>lis?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D.</speaker>
+                     <p>yrydis yn dyrchafu‘r medụl at ḍuụ, drụy oſtyngeiḍrụyḍ a gobaith ar fod yn abl i ofyn.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A.</speaker>
+                     <p>Paham y‘rydymi yn galụ duụ yn dad.</p>
+                  </sp>
+                  <sp>
+                     <speaker>D.</speaker>
+                     <p>am ụrth i alụ ef yn dad yrydymi yn galụ in cof i faụr ga<g ref="char:EOLhyphen"/>riad ef i ni, ag feḷy yrydymi yn dymuno arno drụy faụr goel, a mụy gobaith.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A.</speaker>
+                     <pb n="25" facs="tcp:181236:17"/>
+                     <p>Paham y doedụn, yn tad nid, ag nid, fy nhad?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D. </speaker>
+                     <p>am i fod ef yn dad i baụb, a ninau i gyd yn frodyr, ag feḷy ni a ḍy<g ref="char:EOLhyphen"/>lem garu i gilyḍ megis brodyr, a meibi<g ref="char:EOLunhyphen"/>oni un tad ſyḍ mor daionus.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A. </speaker>
+                     <p>ple mae duụ?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D.</speaker>
+                     <p>y mae ef yn y nef, ag ar y ḍaear, ag y mhob ḷe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A.</speaker>
+                     <p>ụrth hyny paha<g ref="char:cmbAbbrStroke">̄</g> yr ydymi yn dœdyd, yr hụn ụyt yn y nefo<g ref="char:EOLunhyphen"/>ed?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D. </speaker>
+                     <p>o achos mae yna y gụelir ụyneb duụ, yn ḷe y mae yn gụlad ni, ag yna y mae ef yn dangos yn fụy i aḷụ ai faụ<g ref="char:EOLhyphen"/>roleth.</p>
+                     <p>Yma geḷir doedyd ynghylch cariad y nef, a gogoniant nefaụl, a diſtyrieth pathau daear aụl.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A.</speaker>
+                     <p>pa beth ydym yn in ofyn yn y ſaith syn canlyn?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D. </speaker>
+                     <p>yn gyntaf yr ydym yn erchi urḍuniant, a gogoniant duụ ynol hyn<g ref="char:EOLunhyphen"/>ny y dedụḍụch y gụnaethbụyd ni er i
+<pb n="26" facs="tcp:181236:18"/> fụyn, yn y trydyḍ ḷe; y pethau pe<g ref="char:cmbAbbrStroke">̄</g>af ſyḍ in cynhorthụy, oi gyrheuḍyd ef, ai fe<g ref="char:EOLhyphen"/>ḍianu.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A.</speaker>
+                     <p>ymha un y‘r erchir gogonia<g ref="char:cmbAbbrStroke">̄</g>t duụ?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D. </speaker>
+                     <p>yn y cyntaf, ụrth ḍoedyd ſantei<g ref="char:EOLunhyphen"/>ḍier dy henu di.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A.</speaker>
+                     <p>ag am yn dedụḍụch ni?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D.</speaker>
+                     <p>yn yr ail ſy‘n doedyd: delid dy de<g ref="char:EOLunhyphen"/>yrnas di. ſ. iḍo ef deyrnaſu arnomi yma drụy ras, a chụedi drụy ogoniant.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A. </speaker>
+                     <p>Pryd na thernaſa duụ arnom, pụy a de<g ref="char:EOLunhyphen"/>yrnaſa?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D. </speaker>
+                     <p>yn gelynion ni. ſ. y byd, ycna<g ref="char:EOLhyphen"/>ụd a‘r cythrel.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A. </speaker>
+                     <p>ar pethau anghe<g ref="char:cmbAbbrStroke">̄</g>rhi<g ref="char:EOLhyphen"/>diol er aiḷ ymhle, yr ydis yn i gofyn?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D.</speaker>
+                     <p>yn y pump arch eraiḷ.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A.</speaker>
+                     <p>beth feḷy ydym yn i ofyn yn i drydeḍ arch ſy‘n canlyn?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D.</speaker>
+                     <p>ar ụneuthur honomi eụḷys duụ, yma ar y ḍae ar, megis ag y mae‘r angylion a‘r gụynfydedig yn gụneuthur yn y nef</p>
+                  </sp>
+                  <sp>
+                     <speaker>A. </speaker>
+                     <p>yn y be dụareḍ?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D. </speaker>
+                     <p>ar roi i ni fara a chynnheiliaeth corphoraụl a‘r bara yſ<g ref="char:EOLunhyphen"/>brydaụl
+<pb n="27" facs="tcp:181236:18"/> yr hụn yụ‘r ſanteiḍiaf ſacra<g ref="char:EOLhyphen"/>fen, ai ras ef cid' ag eraiḷ oi roḍion.</p>
+                  </sp>
+                  <sp>
+                     <speaker> A.</speaker>
+                     <p>yn y bymed?</p>
+                  </sp>
+                  <sp>
+                     <speaker> D. </speaker>
+                     <p>ar faḍe hono ef i ni yn pechodau, an ca<g ref="char:cmbAbbrStroke">̄</g> ụedau megis yr ydym minnau yn maḍe i eraiḷ; a gụneuthur feḷy o duụ i ni fal i gụnelominau iḍy<g ref="char:EOLhyphen"/>nhụy.</p>
+                  </sp>
+               </div>
+               <div type="subsection">
+                  <head>Yma y geḷir gụneuthur eſòrtiad i fa<g ref="char:EOLhyphen"/>ḍe camau.</head>
+                  <sp>
+                     <speaker>A. </speaker>
+                     <p>yn y chụecheḍ?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D.</speaker>
+                     <p>ar na oḍefo i ni ſyrthio meụn profedigaethau, o<g ref="char:cmbAbbrStroke">̄</g>d rhoi i ni gynhorthụy oi gorchfygu ag i gael y maes arnynt, ag i ochelyd phechu.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A.</speaker>
+                     <p>yn y ſeithfed?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D.</speaker>
+                     <p>ar yn rhyḍhau, a‘n a<g ref="char:EOLhyphen"/>chub ni rhag pob drụg. ſ. i‘r enaid, a‘r corph, a rhag y cythrel yn gelyn ni.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A. </speaker>
+                     <p>pa un yụ‘r drụg mụyaf y myſc pob dr<g ref="char:EOLhyphen"/>ụg?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D.</speaker>
+                     <p>pechod.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A. </speaker>
+                     <p>pụy un ſyḍ ụaethaf a bryntaf, pechod yntau cythrel?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D. </speaker>
+                     <p>gụae<g ref="char:EOLhyphen"/>thaf
+<pb n="28" facs="tcp:181236:19"/> o laụer yụr pechod, o herụyd bod y cythrel ụedi i ụneuthur mor frụnt drụy‘r pochod yn unic.</p>
+                  </sp>
+               </div>
+               <div type="exhortation">
+                  <head>Anghoriad.</head>
+                  <sp>
+                     <p>Yma geḷir doedyd fal yr oeḍ y cythrel drụy i naturieth yn deg &amp;c. Ag am hy<g ref="char:EOLunhyphen"/>ny os nyni a‘mgadụn rhag pechod, ni a fyḍụn deg hefyd yn gyphelib i‘r yngy<g ref="char:EOLunhyphen"/>lion &amp;c ag ynghylch brynti a budreḍi pechod &amp;c.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A. </speaker>
+                     <p>Amen, fely bo. yr ydym yn gobaith yn nuụ ar ganhiadu honof i ni y cubl drụy gyfryngiad i fab ef, yr hụn a ḍyſcoḍ i ni‘r ụedi yma.</p>
+                  </sp>
+               </div>
+            </div>
+            <div type="section">
+               <head>O‘r aue Maria.</head>
+               <sp>
+                  <p>Aue Maria gratia plena dominus te cum, benedicta tu in mulieribus &amp; be<g ref="char:EOLunhyphen"/>nedictus fructus ve<g ref="char:cmbAbbrStroke">̄</g>tris tui Ieſus. San<g ref="char:EOLunhyphen"/>cta Maria mater dei ora pro nobis pec<g ref="char:EOLunhyphen"/>catoribus nunc &amp; in hora mortis no<g ref="char:EOLhyphen"/>ſtræ. Amen.</p>
+                  <pb n="29" facs="tcp:181236:19"/>
+                  <p>Henphych ụeḷ fair gyflaụn o ras, ma<g ref="char:EOLhyphen"/>e‘r arglụyḍ gidaethdi: bendigedig ụyti ymyſc y merched, a bengidedig yụ phru<g ref="char:EOLunhyphen"/>yth dy grothdi Ieſu. O Santeiḍiol fair, mam duụ gụeḍia droſom bechaduri<g ref="char:EOLhyphen"/>aid yroụron, ag yn aụr angau. Amen.</p>
+               </sp>
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>beth yụ hynn a ḍoedaſoni y naur?</p>
+               </sp>
+               <sp>
+                  <speaker>D.</speaker>
+                  <p> yr aue Maria.</p>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>Pụy a ụnaeth yr aue Maria.</p>
+               </sp>
+               <sp>
+                  <speaker>D.</speaker>
+                  <p>yr angel Gabriel pan ḍoe<g ref="char:EOLhyphen"/>th i gyfarch yr arglụyḍes fair, ag e fụ<g ref="char:EOLhyphen"/>rụyd rhai o eiriau Eliſabeth ſantes, at gyfarchiad yr angel; a‘r eglụys hefyd a ḍodes darn at hynny.</p>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>ụrth bụy yr ydis yn doedyd yn yr aue Maria?</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>ụrth yr arglụyḍes fair?</p>
+               </sp>
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>Pụy yu‘r ar glụyḍes fair?</p>
+               </sp>
+               <sp>
+                  <speaker>D.</speaker>
+                  <p>y hi yụ mam duụ mo<g ref="char:EOLhyphen"/>rụyn gyflaụn o ras, ag o bob rhinụeḍ ḍa brenhines nef, a daear, a‘n canḷaụ ni.</p>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>Ple mae‘r arg: fair?</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>yn y nef y
+<pb n="30" facs="tcp:181236:20"/> mae hi.</p>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>a phụy yụ hono ſy‘n yr eglụ<g ref="char:EOLhyphen"/>ys</p>
+               </sp>
+               <sp>
+                  <speaker>D.</speaker>
+                  <p>delụ i honno ſyḍ yn y nef, i beri i ni i chophau hi, ag obligyd i bod yn ḍe<g ref="char:EOLhyphen"/>lụ iḍi hi, yr ydymi yn gụneuthur parch ag anrhydeḍ iḍi, er moliant ag a‘rḍu<g ref="char:EOLhyphen"/>niant iḍi hi, ſyḍ yn y nef.</p>
+               </sp>
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>Pa<g ref="char:cmbAbbrStroke">̄</g>y mae cimaint o ḍelụe i‘r arg: fair, a oes aml arglụydes fair?</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>nag oes ond un yn unic yr hon ſyḍ yn y nef.</p>
+               </sp>
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>Paham y ge<g ref="char:EOLunhyphen"/>lụir hi yn Rhụfain yn rhyụ eglụys, ma<g ref="char:EOLunhyphen"/>ir o‘r drugareḍ, meụn eglụys araḷ, ma<g ref="char:EOLunhyphen"/>ir o‘r gyfared, yn rhyụ le araḷ, yr arglụ<g ref="char:EOLunhyphen"/>yḍes fair o‘r diḍanụch, ag fely meun amrhyụ leoeḍ amryu henụau.</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>ef ai gelụir hi, a chimaint o henụau, am aml ag amrafel ḍaioni y mae hi yn i ụneuthur meụn amryụ leoeḍ, megis mam ḍuụ, a mam y drigareḍ, ag am i bod hi yn gaḷu cimaint cida duụ.</p>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <pb n="31" facs="tcp:181236:20"/>
+                  <p>beth ydis yn i ḍoedyd yn yr aue Maria?</p>
+               </sp>
+               <sp>
+                  <speaker>D.</speaker>
+                  <p>yr ydymi yn i chyfarch hi, ag yn i moli hi, dan yn gorchymyn nyhunan iḍi hi.</p>
+               </sp>
+               <div type="exhortation">
+                  <head>Eſortiad.</head>
+                  <sp>
+                     <p>Y drychụch feibion, ar fod honoch yn faụr ych goglyd ar yr arglụyḍes fair forụyn o herụyḍ ḷaụer o achoſion.</p>
+                  </sp>
+               </div>
+            </div>
+            <div type="section">
+               <head>Salue regina.</head>
+               <sp>
+                  <p>Salue regina mater miſericordiæ, vi<g ref="char:EOLhyphen"/>ta, dulcedo, &amp; ſpes noſtra, ſalue. Ad te clamamus exules filij Eue. Ad te ſuſpi ramus gementes &amp; flentes in hac la<g ref="char:EOLhyphen"/>chrimarum valle. Eya ergo aduocata noſtra, illos tuos miſericordes oculos, ad nos conuerte. Et Ieſum benedictu<g ref="char:cmbAbbrStroke">̄</g> fructum ve<g ref="char:cmbAbbrStroke">̄</g>tris tui, nobis poſt hoc exi<g ref="char:EOLhyphen"/>lium, oſtende; o clemens, o pia, o dulcis virgo Maria. Ora pro nobis ſancta
+<pb n="32" facs="tcp:181236:21"/> dei genitrix, vt digni efficiamur pro<g ref="char:EOLhyphen"/>miſsionibus Chriſti. Amen.</p>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>beth a ḍoedaſomi?</p>
+               </sp>
+               <sp>
+                  <speaker>D.</speaker>
+                  <p> y Salue regi<g ref="char:EOLhyphen"/>na.</p>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>Pụy a ḍyſgoḍ y Salue regina?</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>y ſantaiḍ fam eglụys.</p>
+               </sp>
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>
+                     <g ref="char:V">Ʋ</g>rth bụy, r y<g ref="char:EOLhyphen"/>dis yn doedyd?</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>ụrth y forụyn fair i hunan.</p>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>beth ydis yn i ḍoedyd yn hon</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>molianau eraiḷ i‘r forụyn fair, da<g ref="char:cmbAbbrStroke">̄</g> erchi hefyd i chynhorthụy ai help.</p>
+               </sp>
+            </div>
+            <div type="section">
+               <head>Ynghylch gueḍiau eraiḷ, a galụ ar y Saint.</head>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>heblaụ‘r forụyr fair, oes gennych oglyd a defoſiụn i ſaint eraiḷ?</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>oes i baụb, ar y ſyḍ, megis annuylion duụ, a chyfrungụyr i ninau meụn gogoniant ond yn anụedig i‘r angel fyngheidụad ag i‘r ſant ſyḍ o‘m henu.</p>
+               </sp>
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>ag oi crei<g ref="char:EOLhyphen"/>riau hụynt hefyd?</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>rụyfi hefyd in i hurḍunio hụynt, am fod o honynt yn
+<pb n="33" facs="tcp:181236:21"/> deml i‘r yſpryd glan, a bod yn ḍeledus iḍynt gael i cydunio a‘r eneidiau gogo<g ref="char:EOLunhyphen"/>neḍus.</p>
+               </sp>
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>Para ụeḍi ydych yn i ụneu<g ref="char:EOLhyphen"/>thur attynt.</p>
+               </sp>
+               <sp>
+                  <speaker>D.</speaker>
+                  <p>yr heini ma‘er eglụys yn i ḍyſcu, a‘r pater noſter, a‘r aue Ma<g ref="char:EOLhyphen"/>ria hefyd‘er anrhydeḍ euḍynt.</p>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>Pa<g ref="char:EOLhyphen"/>ryụ ḍeḍfau, ne ụediau ych arferedig oi gụneuthur pan eloch i‘ch gụelu?</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>yn gyntaf rhoi arụyḍ y grog, a chụilio, a ſamio fyngydụybod ụedi hyny, doedyd y gyphes gyphredin, y pader, a‘r aue Maria, y Gredo, a Salue regina, a‘m defoſiụnau eraiḷ.</p>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>Pa foḍ yr ụyt yn ſa<g ref="char:EOLunhyphen"/>mio dy gydụybod?</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>yn gyntaf y ḍụyfi yn diolch i ḍuụ am y daioni a gefais. <g ref="char:V">Ʋ</g>edi hyny, y ḍu‘yn yſtyriaụ fy mhecho<g ref="char:EOLunhyphen"/>dau, yn anụedig o‘r dyḍ hụnụ, dan gy<g ref="char:EOLhyphen"/>meryd ydifeirụch, a dolur am danynt, tan roi fy ḷaụn fryd ar veḷhau, a‘m
+<pb n="34" facs="tcp:181236:22"/> emendio fy hunan, ag a‘m cypheſu, y<g ref="char:EOLhyphen"/>nol hynny y ḍụyf yn gofyn genḍuụ fa<g ref="char:EOLhyphen"/>deuaint am danynt trụy roḍi gofryd cyfan ag aḍuned na phechuyf mụy.</p>
+               </sp>
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>beth a ụyti yn i ụneuthur y bore?</p>
+               </sp>
+               <sp>
+                  <speaker>D.</speaker>
+                  <p> y ḍụyfi ‘n diolch hefyd i ḍuụ am fyngha<g ref="char:EOLhyphen"/>dụ y nos hono, ag am ḍaioni erail, ag yn ophrymu iḍo fynghorph a‘m henaid a phob peth a ụnelụyf yn i ụaſaneth bendiged ef, a hefyd y ḍụy‘n doedyd fy myfyriaụl a‘m ḷefaụl dyfoſiụnau era<g ref="char:EOLhyphen"/>iḷ .ſ. am calon ag am tafod.</p>
+               </sp>
+            </div>
+            <div type="section">
+               <sp>
+                  <p>A‘r trydyḍ peth anghenrhaid i Gri<g ref="char:EOLhyphen"/>ſtion?</p>
+               </sp>
+               <sp>
+                  <speaker>D.</speaker>
+                  <p>Cariad perphaith.</p>
+               </sp>
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>Pa beth a ḍylemi‘garu a‘r cariad perphaith?</p>
+               </sp>
+               <sp>
+                  <speaker>D.</speaker>
+                  <p>duụ uụch be<g ref="char:cmbAbbrStroke">̄</g> pob peth, a‘n cymydog megis nyni nyhunan, er mụyn duụ.</p>
+               </sp>
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>Pa ḍelụ uụch ben pob peth?</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>am y dy lemi yn gynt oḍe marfoleth nai ophen<g ref="char:EOLhyphen"/>dio
+<pb n="35" facs="tcp:181236:22"/> ef, a hefyd ni a ḍylem gadụ i hoḷ or<g ref="char:EOLunhyphen"/>chmnau bendigedig ef dan i farnu ai briſio ef yn fụy na dim araḷ.</p>
+               </sp>
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>Pa ḍe<g ref="char:EOLhyphen"/>lụ cerụchi ych cymydog megis chụich hunan.</p>
+               </sp>
+               <sp>
+                  <speaker>D.</speaker>
+                  <p>dan ḍymuno a gụneuthur iḍo ef hyny a fynem i ni nyhun, yn ol rheſſụm, a chyfraith ḍuụ?</p>
+               </sp>
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>Paham yḍych yn doedyd, yn ol rheſſụm a chyfra<g ref="char:EOLunhyphen"/>ith ḍuụ?</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>oblegid, os yn amgenach, ni fyḍe hyny eụḷysu iḍo ynḍa, ond eụlysu yn ḍrug iḍo megis i ni nyhunan.</p>
+               </sp>
+               <div type="subsection">
+                  <head>Rhyhyd.</head>
+                  <sp>
+                     <p>Yma geḷir damleụchu faint daioni a phrụyth ꝑpheithſerch, a‘r graḍau ſyḍ iḍo .ſ. i bụy y dylem ḍangos ſerch, a cha<g ref="char:EOLhyphen"/>riad chụaneg nog i eraiḷ. O‘r pedụa<g ref="char:EOLhyphen"/>reḍ peth ſyḍ raid i Griſtion ụrtho. ſ. o veithredoed da.</p>
+                  </sp>
+               </div>
+            </div>
+            <div type="section">
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>beth yụ‘r pedueryḍ ſyḍ raid i Gri<g ref="char:EOLhyphen"/>ſtion
+<pb n="36" facs="tcp:181236:23"/> ụrtho?</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>Gụeithredoeḍ da, achos ụedi dyfod i oedran medru barnu, nid ydiụ‘r phyḍ ḍigon heb ụeithredoeḍ da.</p>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>Pafath rai yụ‘r gụeithredoeḍ da?</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>y rheini a yḍis yn i gụneuthur ụrth reſſụm, ne o ḍoedyd yn ụel ụrth eụlys duụ, ag i fod onynt yn rhyglydus rhaid i gụneuthur meụn cariad perphaith.</p>
+               </sp>
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>oni thal yrheini ḍim a ụneler aḷan o gariad perphaith?</p>
+               </sp>
+               <sp>
+                  <speaker>D.</speaker>
+                  <p>na thalan, i heu<g ref="char:EOLunhyphen"/>du gras a gogoniant, ond nhụy a helpa<g ref="char:cmbAbbrStroke">̄</g> i beri‘r arglụyḍ drụyḍyn nhụ roi i ni iechyd, a daioni bydaụl ag in tyụſu ni i adnabod yn pechod, ag i gymeryd y di<g ref="char:EOLhyphen"/>feirụch amdano.</p>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>Paryụ fath rai yụ‘r gụeithredoeḍ da.</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>y rheini ſyḍ vedi goſod yngyrchmynau duụ, ag yn y ḷaiḷ o‘r eglụs, yngụeithredoeḍ y dru<g ref="char:EOLhyphen"/>gareth a rhinụeḍau eraiḷ.</p>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>Doeduch
+<pb n="37" facs="tcp:181236:23"/> y deg gorchumyn:</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>
+                     <hi>1.</hi> Myfi yụ dy ar<g ref="char:EOLhyphen"/>glụyḍ ḍuụ di, na fid gennyt ḍuụ ar aḷ garfymron i. <hi>2</hi> Na chymer enụ duụ yn ofer. <hi>3</hi> Delid yn dy gof ſanteiḍio‘r gụiliau. <hi>4</hi> Anrhydeḍa dad a man. <hi>5</hi> Na laḍ. <hi>6</hi> Na ụna odineb. <hi>7</hi> Na lydratta <hi>8</hi> Na chamdyſtlaetha. <hi>9.10</hi> Na flyſia duy, ne vraig dy cymydog nai vas, nai laụ forụyn, nai ych, nai aſſen, na dim o‘r eiḍo ef.</p>
+               </sp>
+            </div>
+            <div type="section">
+               <head>Doſparth ar y deg gorchymyn.</head>
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>ymhale yrhoesduụ ydeg gorchumyn yma?</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>yn gyntaf, yn y gyfraith hen, a chụedi hyny, Criſt yn harg. <hi>N.</hi> ai cada<g ref="char:EOLhyphen"/>rnhaḍn hụy yn y gyfraith neụyd.</p>
+               </sp>
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>Pa ḍelụ y rhennir hụynt?</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>y tri cyntaf ſy‘n perthyn at vrḍuniad duụ, a‘r ſa<g ref="char:EOLhyphen"/>ith eraiḷ at les y cymydog.</p>
+               </sp>
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>Paḍelụ mae‘r tri yma yn perthynu at anrhy<g ref="char:EOLhyphen"/>deḍ
+<pb n="38" facs="tcp:181236:24"/> duụ?</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>am i fod ef yn eụlyſu i ni ụaſnaethu ef, yn gyntaf a‘n calon ụedi hyny a‘n dafod, yn trydyḍ a‘n gụeith<g ref="char:EOLhyphen"/>redoeḍ.</p>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>Pa foḍ i cadụn ni y gorchu<g ref="char:EOLhyphen"/>myn cyntaf?</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>ụrth foliannu vn duụ yn vnig, ai aḍoli, ai ụaſneuthu, a‘n hoḷ galon, ag ụrth ydrach, ag ymaros cael honomi yn hoḷ gyfareḍ an gobrụy gan<g ref="char:EOLhyphen"/>tho ef megis gen aụdr pob daioni.</p>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p> Pụy ſyḍ yn pechu‘n erbyn y gorchumyn yma?</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>yrheini yn anụedig ſy‘n gụneu<g ref="char:EOLunhyphen"/>thur gauḍuụiaeth, ofergoelion a pholi<g ref="char:EOLunhyphen"/>neb erail o‘r fath, ar y ſyḍ yn erbyn i orḍuniant ef.</p>
+               </sp>
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>Pa foḍ y cadụn ni‘r ail?</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>drụy folianu, a diolch i ḍuụ a‘n tafod, a gofyn gentho ef y pethau ſyḍ raid i ni ụrth<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt.</p>
+               </sp>
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>Pụy ſy‘n pechu yn erbyn y gorchumyn yma?</p>
+               </sp>
+               <sp>
+                  <speaker>D</speaker>
+                  <p>Yn gyn<g ref="char:EOLhyphen"/>taf, yrheini ſyḍ yn blasphemio. ſ yn dir<g ref="char:EOLhyphen"/>mugu
+<pb n="39" facs="tcp:181236:24"/> enụ duụ, ai ſaint. yn ail, yrheini ſy‘n tyngu hyny nid ydiụ vir, a chyfion ag ange<g ref="char:cmbAbbrStroke">̄</g>heidiol; yn drydyḍ, yrheini nid ydynt yn cyfloụni mo‘r aḍuned a ḍar<g ref="char:EOLhyphen"/>fu iḍynt i gụneuthur; ag eraiḷ nid ydy<g ref="char:EOLunhyphen"/>nt yn rhoi parch deledus i enụ ḍuụ.</p>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>Paham y doedụch, gụir, cyfion, ag an<g ref="char:EOLhyphen"/>ghenraid?</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>am y dylai‘r ḷụ fod meụn gụirioned, fal na byḍo phụg, ne beth petrus: meụn cyfioụnder fal na bytho anghyfreithlon; meụn anhepcarụch, fal y byḍo peth anofer: Onid ef yrydis yn pechu yn erbyn y gorchymyn hụn</p>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>a ụydoſti vn gyfareḍ rhag tyngu mo‘r ynudon?</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>gụn yn ſicr: bod heb dyngu<g ref="char:EOLhyphen"/>byth.</p>
+               </sp>
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>Paḍelo doedụchụi ụrth fynu gụirhau rhyụ beth?</p>
+               </sp>
+               <sp>
+                  <speaker>D.</speaker>
+                  <p>ie‘ne nag e yn ſicyr, ne, yn vir, am nad ydiụ hụn lụ, ne dyngiad: a hyny a fo dros ben i hyn mụy
+<pb n="40" facs="tcp:181236:25"/> nid yụ ḍa. Yma geḷir eſortio yn er<g ref="char:EOLhyphen"/>byn blaſphemau ag anudanau, a lyfo<g ref="char:EOLhyphen"/>eḍ mynych arferedig ag i gadụ aḍu<g ref="char:cmbAbbrStroke">̄</g>ed</p>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p> Paḍelu y cadụn ni y trydyḍ gorchy<g ref="char:EOLunhyphen"/>myn, yr hụn yụ, ſanteidio‘r gụiliau?</p>
+               </sp>
+               <sp>
+                  <speaker>D.</speaker>
+                  <p>ụrth ḍangos a‘r gụeithredoeḍ o ḍiaḷa<g ref="char:cmbAbbrStroke">̄</g>, y phyḍ, a‘r cariad yr ydymi yn i dụyn yn yn calon.</p>
+               </sp>
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>ymha beth?</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>nid ụrth la<g ref="char:EOLhyphen"/>furio yn y dyḍ hụnụ ond ụrth vrando ypheren gyfa, megis y mae‘r eglụys yn ordeinio trụy ḍyfoſion a dyfaluch, dan beri i‘r eiḍo ụra<g ref="char:cmbAbbrStroke">̄</g>do ypheren hefyd.</p>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>a pheth mụy?</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>e ḍylyd hefyd treili<g ref="char:EOLunhyphen"/>o‘r dyḍ meụn pethau a fythont ụaſa<g ref="char:EOLhyphen"/>neth i duụ, megis ag e mae, gụeḍio, a darḷain lyfrau da, a gụneuthur gụeith<g ref="char:EOLunhyphen"/>redoed y drugareḍ.</p>
+               </sp>
+               <div type="subsection">
+                  <pb n="41" facs="tcp:181236:25"/>
+                  <head>Eſortiad i gadụ‘r gụiliau, ag yn erbyn yrheini ſy‘n i torri, ag yn i treilio me<g ref="char:EOLhyphen"/>ụn gụethredoeḍ drụg, ag ofer.</head>
+                  <sp>
+                     <speaker>A.</speaker>
+                     <p>Paḍelụ i cadụn ni y pedụeryḍ gor<g ref="char:EOLhyphen"/>chumyn yr hụn ſyn erchi aḍoli tad, a mam.</p>
+                  </sp>
+                  <sp>
+                     <speaker>D.</speaker>
+                     <p>nyni a ḍyle<g ref="char:cmbAbbrStroke">̄</g>, vfuḍhau iḍynt, i perchi, i gụaſneuthu i cymhorth, ai he<g ref="char:EOLhyphen"/>lpu.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A.</speaker>
+                     <p>beth os eirch yn tad ni, i ni ụneu<g ref="char:EOLunhyphen"/>thur rhyụ bechod ne ḍoedyd rhyụ gelụ<g ref="char:EOLhyphen"/>yd, a fynechụi vfyḍhau iḍo?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D. </speaker>
+                     <p>na fyn<g ref="char:EOLhyphen"/>ụn, am nad yụ rụymeḍig i vfuḍhau yḍo, yn erbyn duụ, ond yn y pethau ſyḍ gyfreithlon ag oneſt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A.</speaker>
+                     <p>Peſaụl amryụ dad ſyḍ?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D. </speaker>
+                     <p>Padụar, yn gyntaf, y tad naturiol yr hụn a‘n enniḷod ni, a hefyd yn teidiau ni a gyfrifir yn dadau yma: yr ail tad yụ‘r tad yſprydol, megis y ma<g ref="char:EOLunhyphen"/>e‘r opheiriaid, prelatiaid, ag athraụo<g ref="char:cmbAbbrStroke">̄</g>, yn drydyḍ, rheolụyr y ụlad; yn bedụe<g ref="char:EOLhyphen"/>ryd,
+<pb n="42" facs="tcp:181236:26"/> y‘r henụyr er mụyn i hoedran, ag ni a ḍylem anrhyḍeḍu paụb yn ol i raḍ ai ſtad.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A</speaker>
+                     <p>beth a ḍylai dadau da i ụne<g ref="char:EOLunhyphen"/>uthur i‘r plant</p>
+                  </sp>
+                  <sp>
+                     <speaker>D. </speaker>
+                     <p>i dyſcu, ai rheoli hụ<g ref="char:EOLhyphen"/>ynt, ag na chosbant monynt yn anrhy<g ref="char:EOLhyphen"/>ſymol, na gụneuthur yn rhy amụyl o honynt, ond pob vn o‘r ḍau ụrth bụyḷeḍ a rheſſụm.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A.</speaker>
+                     <p>Padelụ maei‘r gụas ymḍụyn tu ag at i feiſtr; a‘r dei<g ref="char:EOLhyphen"/>liụr tu ag at i arglụyḍ</p>
+                  </sp>
+                  <sp>
+                     <speaker>D. </speaker>
+                     <p>mal mab tu ag at i dad dan ụneuthur iḍo omes megis i un yn le yn harglụyd ni</p>
+                  </sp>
+                  <sp>
+                     <speaker>A. </speaker>
+                     <p>a‘r meiſtraid tu ag at i guaſnaethụyr?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D. </speaker>
+                     <p>megis tadau ụrth i plant, megis ụr<g ref="char:EOLhyphen"/>th frodyr yngriſt</p>
+                  </sp>
+                  <sp>
+                     <speaker>A. </speaker>
+                     <p>Paḍelụ y cadụn ni‘r pumed gorchumyn?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D.</speaker>
+                     <p>ụrth beidio ag eụyḷyſu drụg, nai ụneuthur, i‘r cym<g ref="char:EOLunhyphen"/>ydog a challo<g ref="char:cmbAbbrStroke">̄</g>, na thafod na gụeithred dan ḍụyn i‘n cof, i fod ef ved‘i ụneu<g ref="char:EOLhyphen"/>thur
+<pb n="43" facs="tcp:181236:26"/> ar lun a delu ḍuụ.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A. </speaker>
+                     <p>Paḍelụ ca<g ref="char:EOLhyphen"/>dụn y chụeched?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D.</speaker>
+                     <p>yn yr vnphunyd ụr<g ref="char:EOLhyphen"/>th pho pob anoneſtrụyd, nid yn vnig ar ụeithroeḍ, ond hefyd, ar dafod, a chal<g ref="char:EOLunhyphen"/>lo<g ref="char:cmbAbbrStroke">̄</g> megis y ḍydis yn gorchymyn yn y na<g ref="char:EOLhyphen"/>ụed.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A.</speaker>
+                     <p>Para gyfareḍ a‘rferụn ni i aḷu cadụ‘r gorchumyn yma?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D.</speaker>
+                     <p>ḷaụer, ond ymyſc eraiḷ y pump yma, yn gyntaf, bod yn rheolus ụrth fuyta, ag yfed, yn ail, pho cyfeḍach a chymdeithas ḍrụg, y trydyḍ gochel doedyd geiriau, ne ga<g ref="char:EOLhyphen"/>niadau ſerth, nai gụra<g ref="char:cmbAbbrStroke">̄</g>do, yn gimaint ag y gaḷon ymochel: y pedụeryḍ, mynych arferu‘r ſacrafenau ſanteiḍiaf y py<g ref="char:EOLhyphen"/>med, gofyn pureiḍrụyd diụair gen y ſanteidiaf forụyn fair, ar iḍi hi gael gen ḍuụ i ganhiadu i ni.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A. </speaker>
+                     <p>Paḍelụ y cadụn ni y ſeithfed?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D. </speaker>
+                     <p>ụrth na chyme<g ref="char:EOLunhyphen"/>rom, ag na ḍaliom, ag na ụnelon niụed
+<pb n="44" facs="tcp:181236:27"/> i ḍa vn araḷ drụy drais, ne drụy ſomi<g ref="char:EOLhyphen"/>ant, nag ụrth roi na help, na chyngor, nag achos yn y byd i vn araḷ oi ụneu<g ref="char:EOLhyphen"/>thur. Yma y geḷir anghori, na dalier, da o‘r eiḍo eraiḷ, ne gyflog, y cyflogḍyn: a gochel fod yn chụaryḍion ag na ụne<g ref="char:EOLhyphen"/>lir bargeinion anghyfreithlon e‘r mụ<g ref="char:EOLhyphen"/>yn yniḷ drụy lygru‘r gydụybod, ag feḷy dylid ymgynghori yn y pethau a fo pe<g ref="char:EOLhyphen"/>trus, ag nid mynd rhagḍo megis daḷ; a hefyd i gyfloụni eụḷys y marụ yn i ly<g ref="char:EOLhyphen"/>thyr cymyn, ca<g ref="char:cmbAbbrStroke">̄</g>s ụrth dy fod ti yn mynd a da rhai erail gụilia nad elo diaụl a‘ th enaid tithe: a bod yn amyneḍgar meụn tylodi a gobaithio yn nuụ, y rhyḍ ef i ti y peth a fo rhaid i ti vrtho.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A.</speaker>
+                     <p>Paḍelụ y cadụn ni yr ụythfed?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D.</speaker>
+                     <p>na ḍoedom mor anụir, yn erbyn yn cymy<g ref="char:EOLhyphen"/>dog na furfurom, nag annirgelom be<g ref="char:EOLhyphen"/>chodau
+<pb n="45" facs="tcp:181236:27"/> dirgel. O dieithr ụrth y neb y pyrthynai atto gụeirio ag amendio‘r camụeḍau hynny ne‘r mụyn rhyụ da<g ref="char:EOLhyphen"/>ioni araḷ, ag achos cymheſur. heb far<g ref="char:EOLhyphen"/>nu drụg am yn cymydog, na doedyd ce<g ref="char:EOLunhyphen"/>lụyḍ amdano: Ond yn gynt ḍoedyd yn ḍa, megis y dymuniti i eraiḷ ḍoedyd am<g ref="char:EOLunhyphen"/>danat tithau.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A.</speaker>
+                     <p>Paḍelụ y cadụn ni‘r naụed?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D.</speaker>
+                     <p>ụrth na ḍiſyfon ụraig vn araḷ, nag anone<g ref="char:EOLhyphen"/>ſtrụyd araḷ. ag am hyn y mae‘n da ca<g ref="char:EOLhyphen"/>dụ‘r lygat rhag gụeled ofereḍ‘a go<g ref="char:EOLhyphen"/>chel pob achoſian eraiḷ; cadụ‘r galon rhag medụl drụg, rhedeg at i ụedi, i geisio help i ụrthlaḍ a gorchfygụ y pro<g ref="char:EOLunhyphen"/>fodigaethau.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A. </speaker>
+                     <p>Paḍelụ y cadụn ni y ḍegfed?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D.</speaker>
+                     <p>ụrth na diſyfon ḍa, na dim araḷ eiḍo‘r cymydog, drụy phorḍ ang<g ref="char:EOLhyphen"/>hyfreithlon, tan fod heb cynfigen ụrtho
+<pb n="46" facs="tcp:181236:28"/> am y da ſyḍ gentho.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A.</speaker>
+                     <p>Ymheſſaụl vn y geḷir cynnụys y deg gorchumyn ym a yn<g ref="char:EOLunhyphen"/>ḍynt?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D. </speaker>
+                     <p>yn nau orchumyn cariad per<g ref="char:EOLunhyphen"/>phaith .ſ. caru duụ vụch ben pob peth, a‘r cymydog megis ef i hunan, er cari<g ref="char:EOLhyphen"/>ad ar ḍuụ ag feḷy, mae‘r hoḷ gyfraith ụed'i chynhụyſo yn y melysber orchy<g ref="char:EOLhyphen"/>myn yma o gariad, yr hụn a drefno yn harglụyḍ ḍuụ i ni trụy i anherfynedig ḍaioni Amen.</p>
+                  </sp>
+               </div>
+            </div>
+            <div type="section">
+               <head>Ynhylch Gorchmynion yr eglụys.</head>
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>Doụaid orchmynion yr eglụys?</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>y cyntaf gụrando ypheren y gụiliau gor<g ref="char:EOLhyphen"/>chmynedig. <hi>2</hi> 
+                     <g ref="char:V">Ʋ</g>mprydio‘r graụys, ar dyḍiau er aiḷ gorchmynedig heb fụytta cig na gụener na ſaḍurn. <hi>3</hi> Cypheſu, yrhynḷeia, vnụaith yn y flụyḍyn. <hi>4.</hi> Cy<g ref="char:EOLunhyphen"/>muno, ar yr hynḷeia, y paſc. <hi>5.</hi> Talu‘r degụm.</p>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>ambar a‘choſion y mae‘r e<g ref="char:EOLhyphen"/>glụys
+<pb n="47" facs="tcp:181236:28"/> yn cadụ gụiliau‘r ſaint?</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>yn gy<g ref="char:EOLunhyphen"/>ntaf, i ogoni duụ yn i ſaint. yn ail, dụyn ar ḍealt i ni y gogonia<g ref="char:cmbAbbrStroke">̄</g>t y mae nhụy yn i gael yn y nef, yn drydyḍ in denu ni oi canlyn hụynt ụrth vybod i bucheḍ ai rhinụeḍau, yn beḍueryḍ, er mụyn feḷy i cael nhụy yn gyfryngụyr troſon; yn bu<g ref="char:EOLhyphen"/>med, e fyn yr egluys vrḍuno‘r ſaint i phlant hi, megis y darfu idynhụythau vrdunio duụ, ai mam .ſ. yr eglụys.</p>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>Paham y mae‘n arfer deḍfau eraiḷ ag anrhydeḍ amlygaụl?</p>
+               </sp>
+               <sp>
+                  <speaker>D.</speaker>
+                  <p>er mụyn mụyo barch, a gụeḍeiḍra yngụasa<g ref="char:cmbAbbrStroke">̄</g>eth duụ; drachefn i gyphro‘r bobl i dyfoſi<g ref="char:EOLhyphen"/>on, ag oi diſgu druy‘r pethau amlyg a<g ref="char:EOLhyphen"/>ụl hyny i gyfeirio i medụl yn ḍyfal i, ſt<g ref="char:EOLhyphen"/>yriaụ‘r pethau ſyḍ oḍifeụn yn a<g ref="char:cmbAbbrStroke">̄</g>ụeledi gaụl yn drydyḍ; am yn bod ni ụedi ca<g ref="char:EOLhyphen"/>el gen ḍuụ gorph ag enaid ni a ḍylem
+<pb n="48" facs="tcp:181236:29"/> feḷy i ụaſneuthu ef, a phob vn o‘r ḍau. Yma geḷir rhybuḍio, i bod yn rhụyme<g ref="char:EOLhyphen"/>dig oi cypheſu, pan ḍelon i flynyḍoeḍ dy ſcreſion. ſ. i oedran gaḷu barnu rhụng drụg a da: A chụedi hyny bara amſer y dylent gymuno, a hyny yn anụedig o‘r hyn ḷeia unụaith yn y flụyḍyn, er bod yn ụeḷ o laụer i ụneuthyr yn fynych. &amp;c.</p>
+               </sp>
+            </div>
+            <div type="section">
+               <head>O‘r ſaith brif bechod a elụir y ſaith be<g ref="char:EOLunhyphen"/>chod marụol.</head>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>
+                     <hi>E</hi> ḍarfu i ni ḍoe dyd o‘r gụeithredo<g ref="char:EOLhyphen"/>eḍ da, manegụch ynaụr y ſaith bechod a elụir marụol</p>
+               </sp>
+               <sp>
+                  <speaker>D.</speaker>
+                  <p>y cyntaf yụ Balcheḍ <hi>2</hi> Cybyḍdra. <hi>3</hi> godineb. <hi>4</hi> Irḷoneḍ. <hi>5</hi> Glothineb. <hi>6</hi> Cynfigen <hi>7</hi> Diogi yrha<g ref="char:EOLunhyphen"/>in ſyḍ achos, a phe<g ref="char:cmbAbbrStroke">̄</g>nau‘r ḷeiḷ, ag am hyn y gelụir hụynt pe<g ref="char:cmbAbbrStroke">̄</g>naụl, er gaḷu honynt veithiæ fod yn feḍeuaụl.</p>
+               </sp>
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>Pa beth yụ pechod?</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>Pechod yụ‘r peth ydis yn i
+<pb n="49" facs="tcp:181236:29"/> dyſyfu, yn i ḍoedyd, ne yn i ụneuthur yn erbyn cyfraith, ag eụḷys duụ.</p>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>
+                     <hi>P</hi>a ḍrug a vna‘r pechod marụal?</p>
+               </sp>
+               <sp>
+                  <speaker>D. </speaker>
+                  <p>ef a ụna goḷi duụ, ai ras a‘r gogoniant, a oeḍid ụed' i aḍo, ag a‘n gụna ni yn ḍeledụyr i boenau tragụdolyn vphern.</p>
+               </sp>
+               <sp>
+                  <speaker>A. </speaker>
+                  <p>Paha<g ref="char:cmbAbbrStroke">̄</g> y gelụir ef marụol?</p>
+               </sp>
+               <sp>
+                  <speaker>D.</speaker>
+                  <p>am i fod yn ḷaḍ yr enaid, ụrth beri iḍo goḷi boụyd y gr<g ref="char:EOLhyphen"/>as.</p>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>beth y mae‘r pechod meḍeuaụl yn i ụneuthur?</p>
+               </sp>
+               <sp>
+                  <speaker>D.</speaker>
+                  <p>ni phair ef goḷi mo‘r gras, na heudu vphern: ond ef a ụna oiri ynghariad a gụaſaneth duụ ag a hauḍa boen tros amſer, a hefyd, y mae ef yn trụyſio, ag yn gogụyḍo dyn i ụeu<g ref="char:EOLhyphen"/>thur pechod marụol.</p>
+                  <p>Yma geḷir traethu goerthrymbụys pe<g ref="char:EOLhyphen"/>chod, dan anghori paụb i pho rhagḍo.</p>
+               </sp>
+            </div>
+            <div type="section">
+               <head>Ynghylch y ſaith ſacrafen o‘r la<g ref="char:cmbAbbrStroke">̄</g> eglụys </head>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>Pa beth araḷ ſyḍ raid i ụneuthur?</p>
+               </sp>
+               <pb n="50" facs="tcp:181236:30"/>
+               <sp>
+                  <speaker>D.</speaker>
+                  <p>rhaid i ni ụybod y ſaith ſacrafen, ai cymeryd yn i hamſer, pan archo, a pha<g ref="char:cmbAbbrStroke">̄</g> ḍang oſo yr eglụys i ni, A. dyụaid ſacra<g ref="char:EOLunhyphen"/>fenau i ſantaiḍ fam eglụys. D. <hi>1.</hi> Be<g ref="char:EOLhyphen"/>dyd. <hi>2.</hi> Cryſma ne fedyd eſcob, <hi>3.</hi> ſag<g ref="char:EOLhyphen"/>rafen yr aḷaụr. <hi>4.</hi> Penyd. <hi>5.</hi> Oleụ. <hi>6.</hi> Vrḍe. <hi>7.</hi> Priodas.</p>
+               </sp>
+               <div type="subsection">
+                  <head>Dehengliad byrr ar y ſacrafenau.</head>
+                  <sp>
+                     <speaker>A.</speaker>
+                     <p>beth a ḍarfụ i ni ḍoedyd?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D.</speaker>
+                     <p>y ſaith ſacrafen.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A. </speaker>
+                     <p>Pụy a ordinioḍ y ſacrafe<g ref="char:EOLhyphen"/>nau yma?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D. </speaker>
+                     <p>Ieſu Griſt yn arglụyḍ N.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A.</speaker>
+                     <p> i ba beth?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D.</speaker>
+                     <p> i bardynu i ni yn pech<g ref="char:EOLunhyphen"/>odau, i gyfranu i ras a heudia<g ref="char:cmbAbbrStroke">̄</g>au i ḍi<g ref="char:EOLhyphen"/>oḍefaint ef, ag ymhob vn yḍydis yn rhoi amryụ ras neuḷduol: Ond mae‘n rhaid i cymeryd hụynt yn deilụng.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A.</speaker>
+                     <p> i ba beth y gụſnaetha ſacrafen bedyḍ?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D.</speaker>
+                     <p> i ụneu<g ref="char:EOLunhyphen"/>thur dyn yn Griſtion ag. yn fab i ḍuụ.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A. </speaker>
+                     <p>Paḍelụ y gụneir hyn?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D. </speaker>
+                     <p>am yn bod
+<pb n="51" facs="tcp:181236:30"/> ni yn geni meụn pechod dechreuaụl yr hụn ydym yn i etifeḍio gen yn tadau cyntaf. ag y ḍydis truy‘r bedyḍ yn i ol<g ref="char:EOLhyphen"/>chi ef, a phob pechod araḷ i phorḍ oḍi<g ref="char:EOLhyphen"/>ụrthymi, ag yn rhoi gras a rhinụeḍau eraiḷ: ag feḷy yḍydis yn yngụneuthur ni yn feibio<g ref="char:cmbAbbrStroke">̄</g> ag yn etifeḍion o‘r boụyd tra gụḍol</p>
+                  </sp>
+                  <sp>
+                     <speaker>A. </speaker>
+                     <p>i ba beth y gụſnaetha ſacra<g ref="char:EOLhyphen"/>fen Cryſma yr hụn a elụir bedyḍ eſcob?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D.</speaker>
+                     <p>i gymeryd gras, a nerth a grymhu<g ref="char:EOLhyphen"/>ſtra, yn erbyn yn gelynio<g ref="char:cmbAbbrStroke">̄</g> ni i gypheſſu'r phyḍ a ḍarfu i ni i chael trụy‘r bedyḍ.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A </speaker>
+                     <p>i ba beth y gụaſnaetha ſacrafen y gyphes?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D.</speaker>
+                     <p> i gael ge<g ref="char:cmbAbbrStroke">̄</g> ḍuụ feḍeuaint am y pechodau a ụnaethon ụedi yn bedy<g ref="char:EOLhyphen"/>ḍio.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A. </speaker>
+                     <p>Paḍelụ y mae i vn ymbarotoi ụrth fyned iụ gypheſſu?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D. </speaker>
+                     <p>gḍnaed dri pheth, y cyntaf, dụyn oi gof yn ḍyfal y pechodau a ụnaeth, yr ail, bod gyntho
+<pb n="52" facs="tcp:181236:31"/> ḍolur, ag ydifeiruch a laụnfryd na ḍy mchuelo mụy at y pechod, y trydyḍ, i cy<g ref="char:EOLunhyphen"/>pheſu nhụy i gyd yn gyfa, ag yna gụneu<g ref="char:EOLunhyphen"/>thur y penyd a roes i dad enaid arnof.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A.</speaker>
+                     <p>i ba beth y gụaſnaetha ſacrafen y‘r allor?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D.</speaker>
+                     <p> i roi maeth ag i borthi‘r ena<g ref="char:EOLhyphen"/>id einom a gras ḍuụ ag oi ụneuthur yn vn ag efo, yn ail, rhag ſyrthio yn ha<g ref="char:EOLunhyphen"/>ụḍ meụn pechodau yn drydyḍ, er mụyn caphel pob perpheiḍrụyḍ.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A.</speaker>
+                     <p>beth ſyḍ yn y ſantaid ſacrafen o‘r aḷḷor</p>
+                  </sp>
+                  <sp>
+                     <speaker>D. </speaker>
+                     <p>e mae Ieſu Griſt yn arg. N. gorph ag enaid, fe<g ref="char:EOLunhyphen"/>ḷy fal y mae yn y nef yn cyſtal yn yr af<g ref="char:EOLhyphen"/>erḷaden ag yn y caregl, vedi i‘r yphei<g ref="char:EOLhyphen"/>riad gyſſegru.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A. </speaker>
+                     <p>a ydiụ‘r bara yn aros yn yr aferḷaden a‘r gụin yn y caregl ve<g ref="char:EOLunhyphen"/>di darfod i‘r ypheiriad gyſſegru?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D. </speaker>
+                     <p>nag ydynt o achos drụy rinụeḍ a nerth y geiriau y mae‘r bara yn troi yn gor<g ref="char:EOLhyphen"/>ph,
+<pb n="53" facs="tcp:181236:31"/> a‘r gụin yn ụaed yn harg. N. Ieſu Griſt, yr hyn a ydis yn i ụneuthur yn yr ypheren.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A. </speaker>
+                     <p>pa beth yụ‘r ypheren?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D. </speaker>
+                     <p>yr ypheren ſyḍ cophaant a gụir rypreſen<g ref="char:EOLhyphen"/>niad, o foụyd, dioḍefaint, a morfoleth yn harg. N. Ieſu Griſt, a chida hyny a<g ref="char:EOLhyphen"/>berth ụrth ophrymu yr vn Criſt dros y byụ a‘r marụ ag feḷy nyni a ḍylem ſe<g ref="char:EOLhyphen"/>fyḷ oi gụrando yn ḍyfal ḍieſceulus ag yn ḍeḍfol.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A. </speaker>
+                     <p>para foḍ y dylai vn i bry<g ref="char:EOLhyphen"/>pario i hyn fal y gaḷe yn deilụng gyme<g ref="char:EOLunhyphen"/>ryd y ſanteidiaf ſacrafen?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D. </speaker>
+                     <p>myned yn deḍfol heb fod i gydụybod iụ gyhuḍo o bechod marụol ai gypheſu o‘r blaen. Yma geḷir guneuthur eſortiad i fynych arfer ſacrafenau‘r gypheſ a‘r cumyn.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A.</speaker>
+                     <p> i ba beth y gụaſnaetha ſacrafen yr oleụ?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D. </speaker>
+                     <p>i gael gras yr ys bryd gla<g ref="char:cmbAbbrStroke">̄</g> ag i ſcubu ymaith ụediḷion y pechodau
+<pb n="54" facs="tcp:181236:32"/> oeḍ yn aros, ag i roi cyſſur i‘r enaid da<g ref="char:cmbAbbrStroke">̄</g> roi iḍo obaith a nerth i ụrthlaḍ blin<g ref="char:EOLhyphen"/>der ſy‘n dyfod trụy i glefyd a‘r cythrel.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A. </speaker>
+                     <p>ag i ba betb hefyd?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D. </speaker>
+                     <p>i gael iechyd y corph, pan ụelo yn arglụyḍ ni i fod yn gymheſur.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A. </speaker>
+                     <p>i ba beth y gụſaſnaetha ſacrafen yr vrḍe?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D.</speaker>
+                     <p> i roi aụdurdod a gras i‘r ypheiriad i gyſegru‘r ſan<g ref="char:EOLhyphen"/>teidiaf ſacrafen o‘r aḷḷor, ag i ryḍ<g ref="char:EOLhyphen"/>hau oḍiụrth bechodau, yr hụn beth ni eiḷ neb ond ypheiriad i ụnenthur.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A. </speaker>
+                     <p>i ba beth y gụſnatha‘r ſacrafen brio<g ref="char:EOLhyphen"/>das?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D. </speaker>
+                     <p>i gael o‘r gụr a‘r ụraig ras i fyụ ynghyd, ag i feithrin i plant yn ogo<g ref="char:EOLunhyphen"/>neḍus i ḍuụ ag i amlhau‘r bobl griſtno<g ref="char:EOLunhyphen"/>gion fal y bo fyth rai i vaſneuthu duụ</p>
+                  </sp>
+                  <sp>
+                     <speaker>A. </speaker>
+                     <p>Padelụ y dyl ai‘r gụr a‘r vraig ym<g ref="char:EOLhyphen"/>dụyn ynghyḍ?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D. </speaker>
+                     <p>y gụr a ḍyle garu, ag a<g ref="char:cmbAbbrStroke">̄</g>rhydeḍu i ụraig, megis chụaer yngh<g ref="char:EOLhyphen"/>riſt,
+<pb n="55" facs="tcp:181236:32"/> ar ụraig berchi ag vfuḍhau oi gụr megis i vn yn ḷe Criſt: a phob vn o honynt iḷ dau ynghyd a ḍylent gaḍu heḍụch vnoldeb. phydloneḍ a chariad perphaith, megis y mae rhụng criſt a‘r eglụys.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A. </speaker>
+                     <p>Doeduch y pethau eraiḷ ſy‘n perthynu at ụeithredoeḍ da ne athra<g ref="char:EOLhyphen"/>ụaeth griſtionaiḍ?</p>
+                  </sp>
+                  <sp>
+                     <speaker>D. </speaker>
+                     <p>y tair rhinụeḍ theolygaụl, phyḍ, gobaith a chariad ꝑ<g ref="char:EOLhyphen"/>phaith; y pedair prif ri<g ref="char:cmbAbbrStroke">̄</g>ụed, pụyleḍ, gry<g ref="char:EOLunhyphen"/>mhyſeḍ, cyfioneḍ, thymhereḍ. Saith roḍ yr ysbryd glan, rhoḍ o doethineb; o ḍe<g ref="char:EOLhyphen"/>aḷt, o gyngor, o rymhyſeḍ, o ụybodeth, o hygareḍ, a rhoḍ o ofn duụ.</p>
+                  </sp>
+               </div>
+            </div>
+            <div type="section">
+               <div type="subsection">
+                  <head>Yr ụyth dedụḍụch.</head>
+                  <sp>
+                     <p>Dedụyḍ yụ‘r tylo dion o ysbryd, cans hụyntụy pie teyrnas nefoeḍ.</p>
+                     <p>Dedụyḍ yụ‘r gụaredigion, cans ynhụy a feḍianan y ḍaear.</p>
+                     <pb n="56" facs="tcp:181236:33"/>
+                     <p>Dedụyḍ yụ rheini sy‘n aḷar ca<g ref="char:cmbAbbrStroke">̄</g>s ynhụy a gan i cyſurio.</p>
+                     <p>Dedụyḍ yụ‘r rhein ſy arnynt neụyn a ſyched cyfionder, ca<g ref="char:cmbAbbrStroke">̄</g>s nhụy a ḍiụeḷir</p>
+                     <p>Dedụyḍ yụr trugarogion, cans yntụy a gan ḍrụgareḍ.</p>
+                     <p>Dedụyḍ yụ‘rheini ſyḍ lan i calon, cans ynhụy a gan ụeled duụ.</p>
+                     <p>Dedụyḍ yu‘r hedychụyr, cans; cant i galụ yn feibion i ḍuụ.</p>
+                     <p>Dedụyḍ yu‘rheini ſy‘n cael i hyrlid ai blino er mụyn cyfionder, canys</p>
+                     <p>Ynhuy pie teyrnas nef.</p>
+                  </sp>
+               </div>
+               <div type="subsection">
+                  <head>Deudeg phrụyth yr yſpryd glan.</head>
+                  <sp>
+                     <p>Cariad perphaith. Lyụenyḍ. Hedụch, Goḍefeḍ. Ymaroſrụyḍ. Daioneḍ. Cymụ<g ref="char:EOLhyphen"/>ynaſſeḍ. Gụareḍ. Phyḍ. Moḍuſtra. Cy<g ref="char:EOLhyphen"/>mgadụriaeth. Diueirdeb.</p>
+                  </sp>
+               </div>
+               <div type="subsection">
+                  <pb n="57" facs="tcp:181236:33"/>
+                  <head>Saith ụeithred y drugareḍ gorforaụl. </head>
+                  <sp>
+                     <p>Rhoi bụyd i‘r tlaụd neụnog. Rhoi diod i‘r tylodion ſychedig. Diḷadu‘r noethi<g ref="char:EOLhyphen"/>on. Rhoi letty i, r peḷḷennig. Ydrych clei<g ref="char:EOLunhyphen"/>fion. Gofụyaụ cyrchrorion. Claḍu‘r meiru.</p>
+                  </sp>
+               </div>
+               <div type="subsection">
+                  <head>Saith ụeithred y drugareḍ yſprydaụl. </head>
+                  <sp>
+                     <p>Rhoi cyngor da i eraiḷ. Cyfrụydo‘r an<g ref="char:EOLunhyphen"/>ghyfarụyḍ. Rhybuḍio‘r pechodụyr: cy<g ref="char:EOLhyphen"/>ſurio‘r neb ſyḍ meụn blinder, a ḷuḍed. Made‘r cam a‘r niued a goụsom: Dụyn yn ḍioḍefgar yr helbul y mae eraiḷ yn i vneuthur i ni: gụeḍio duụ dros y byụ a‘r meirụ.</p>
+                  </sp>
+               </div>
+               <div type="subsection">
+                  <head>Pumtheg dirgeleḍ yr arg. Ieſu Griſt oi mefyrio ag i ḍoedyd laſụyr fair.</head>
+                  <sp>
+                     <p>Y pump laụenchus a eḷir i myfyrio ụr<g ref="char:EOLhyphen"/>th fyned dros y paderau y ụaith gyn<g ref="char:EOLhyphen"/>taf, <hi>1.</hi> Cennadụriaeth yr angel, pan
+<pb n="58" facs="tcp:181236:34"/> eniḷụyd mab duụ. <hi>2.</hi> Gofụyad Eliſa<g ref="char:EOLhyphen"/>beth ſantes <hi>3.</hi> Genedigeth yn harg. N. Ieſu Griſt. <hi>4</hi> Preſenniad yn harg. N. yn y deml. <hi>5.</hi> Pan gaed ef yn y deml ymyſc yr athraụon.</p>
+                  </sp>
+               </div>
+               <div type="subsection">
+                  <head>Y pump dolurus oi‘ ſtyriaụ ụrth fynd eilụaith dros y paderau.</head>
+                  <sp>
+                     <p>
+                        <hi>1</hi> Gụeḍi‘r arglụyḍ yn yr arḍ. <hi>2.</hi> i ſc<g ref="char:EOLhyphen"/>yrſio ụrth y piler. <hi>3.</hi> i goroniad a‘r go<g ref="char:EOLunhyphen"/>ron ḍrain. <hi>4.</hi> Dygiad y groes i fynyḍ calfario. <hi>5.</hi> i groeshoelio ai angau ar y groes.</p>
+                  </sp>
+               </div>
+               <div type="subsection">
+                  <head>Y pump gogoneḍus oi medụly drydeḍ ụaith yr eler dros y paderau.</head>
+                  <sp>
+                     <p n="1">
+                        <hi>1</hi> Cyfodiad yn harglụyḍ ni. <hi>2.</hi> I ḍa<g ref="char:EOLhyphen"/>ruchafiad ef i‘r nef. <hi>3.</hi> Dyfodiad yr ysbryd glan. <hi>4.</hi> Dyrchafiad yr arglụy ḍes fair. <hi>5.</hi> I choroniad vuch ben yr hoḷ angylion a‘r dedụdion o‘r nef.</p>
+                  </sp>
+               </div>
+            </div>
+            <div type="section">
+               <div type="part">
+                  <pb n="59" facs="tcp:181236:34"/>
+                  <head>Pan ganer y gloch afi, ef a eniḷir me<g ref="char:EOLhyphen"/>ḍia<g ref="char:cmbAbbrStroke">̄</g>nau ụrth ḍoedyd, ar y ca<g ref="char:cmbAbbrStroke">̄</g>iad cyntaf</head>
+                  <sp>
+                     <p>Angelus domini nunciauit Mariæ, et concepit de ſpiritu ſancto. Aue ma<g ref="char:EOLunhyphen"/>ria &amp;c.</p>
+                  </sp>
+               </div>
+               <div type="part">
+                  <head>Ar yr ail caniad.</head>
+                  <sp>
+                     <p>Ecce ancilla domini, fiat mihi ſecun<g ref="char:EOLhyphen"/>dum verbu<g ref="char:cmbAbbrStroke">̄</g> tuu<g ref="char:cmbAbbrStroke">̄</g>. Aue Maria &amp;c.</p>
+                  </sp>
+               </div>
+               <div type="part">
+                  <head>Ar y trydyḍ caniad.</head>
+                  <sp>
+                     <p>Et verbum caro factum eſt, &amp; habita uit in nobis. Aue Maria &amp;c.</p>
+                     <p>Moliant i duụ, ag in hargluyḍ ni Ieſu Griſt: ag i‘r ſanteiḍiaf forụyn Mair i fam ef. Amen.</p>
+                  </sp>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="index">
+            <pb n="60" facs="tcp:181236:35"/>
+            <head>Os chụenychai vn ụybod, pa le yn yr atraụaeth griſtnog aụl y mae ceiſio yſtr ne deſtyn i bregethu, a chyfleu pob pre<g ref="char:EOLhyphen"/>geth yn i dyledus fan; e caiph gyfarụy<g ref="char:EOLunhyphen"/>ḍid ụrth hyn ſyn canlyn a‘r rhif a ḍen gys y ḍolen.</head>
+            <list>
+               <item>Le i annog dyn i ḍilyn gụeithredoeḍ Criſt. <hi>7.</hi>
+               </item>
+               <item>ḷe i ḍoſparth pechod Aḍa, ag i ḍangos daioni yn prynnụr. <hi>17.</hi>
+               </item>
+               <item>Ynghylch gogonia<g ref="char:cmbAbbrStroke">̄</g>t adgyfodiad y mei<g ref="char:EOLhyphen"/>rụ. <hi>21.</hi>
+               </item>
+               <item>ḷe i anghori dyn i ụaſnaethu duụ. <hi>21.</hi>
+               </item>
+               <item>O ogonian nefol, a diſtyrieth pethau daearaụl, <hi>25.</hi>
+               </item>
+               <item>ḷe i gynghori maḍau caman a ga<g ref="char:EOLhyphen"/>pher. <hi>27.</hi>
+               </item>
+               <item>ḷe i ḍangos brynti pechod, <hi>28.</hi>
+               </item>
+               <item>ḷe i annog paụb i ụedio ar yr arglụḍes fair. <hi>31.</hi>
+               </item>
+               <pb n="61" facs="tcp:181236:35"/>
+               <item>ḷe i ḍangos prụyth a graḍau cariad perphaith. <hi>35.</hi>
+               </item>
+               <item>Yn erbyn blasphemau, anudon, ag ofer lyfau. <hi>40.</hi>
+               </item>
+               <item>ḷe i cynghori cadu‘r gụiliau. <hi>41.</hi>
+               </item>
+               <item>Yn erbyn camattal da eraiḷ. <hi>44.</hi>
+               </item>
+               <item>ḷe i ḍangos gorthrymi pechod, ag i an<g ref="char:EOLunhyphen"/>nog paụb i pho rhagḍo. <hi>49.</hi>
+               </item>
+               <item>ḷe i annog, ag i cynghori paụb, i gypheſ<g ref="char:EOLunhyphen"/>ſu ag i gymuno yn fynych. <hi>53.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="errata">
+            <head>Beiau ụrth brintio: a‘r rhif cyntaf y<g ref="char:EOLhyphen"/>nol pob bai, a dengys nifer y dolennau, ḷe cair nhụy ynḍi<g ref="char:cmbAbbrStroke">̄</g>t: yr ail: nifer y ḷinoeḍ.</head>
+            <div type="part">
+               <list>
+                  <item>Decreued tros dechreued. <hi>1. 5.</hi>
+                  </item>
+                  <item>Criſt<g ref="char:EOLhyphen"/>noniog tros Criſtnogion. <hi>48.</hi>
+                  </item>
+                  <item>Sythedig, tros Sychedig. <hi>4. 18.</hi>
+                  </item>
+                  <item>Nefoḍ tros nefoeḍ. <hi>13. 14.</hi>
+                  </item>
+                  <item>Goer<g ref="char:EOLhyphen"/>thrymbụys tros gorthrymbụys. <hi>49. 16.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <pb n="62" facs="tcp:181236:36"/>
+               <p>Mae yn aml o leoeḍ, ḍiphig title tan odref y tair ḷythyren yma: d, l, u, mal: arụydheir tros arụyḍheir. <hi>8. 15.</hi> arglu<g ref="char:EOLunhyphen"/>yd tros arglụyḍ. <hi>13. 11.</hi> ụedi tros ụeḍi. <hi>28. 13.</hi> meun, tros meụn. <hi>30. 13.</hi> a<g ref="char:cmbAbbrStroke">̄</g>nu<g ref="char:EOLunhyphen"/>ylion, tros annụylion. <hi>32. 14.</hi> erail, tros eraiḷ. Rhaid i‘r darḷeyḍ yn y cyfryụ le<g ref="char:EOLhyphen"/>oeḍ ụrth ſynụyr, ag yſtyr yr ymadroḍ ḍeualt ag adnobod, pa amſer y dylai ditl fod <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an bob vn o‘rhain.</p>
+            </div>
+         </div>
+         <div type="glossary">
+            <head>Geiriau a orfu i harfer yn y traethiad hụnn, nid ydynt chụaith ſathredig im<g ref="char:EOLhyphen"/>iſc y cyphredin o gymru.</head>
+            <p>Rhaglith, ne Raglụybr, introductio. Anſoḍfab, filius adoptiuus, ennaint vnguentum, einniaụ, vngo einniaụg vnctus; Mụynhau, frui: Galueḍ, pote<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>tia, Canḷaụ, aduocata: Gụeḍi fyfyria<g ref="char:EOLhyphen"/>ụl, Oratio mentalis. ḷefaụl ne laferaụl
+<pb n="63" facs="tcp:181236:36"/> veḍi, oratio vocalis Gauḍuụiæth, Ido<g ref="char:EOLhyphen"/>latria.</p>
+            <p>Ofergoel, ſuperſtitio, Cyfareḍ, remedi<g ref="char:EOLunhyphen"/>um. Gụirhau, affirmare, aut verifica<g ref="char:EOLunhyphen"/>re. Deḍfau, ceremoniæ. Cyfrụng, me<g ref="char:EOLhyphen"/>dium Cyfryngụr, mediator aut inter<g ref="char:EOLhyphen"/>ceſſor. Dirgeleḍ, myſterium. Annirge lu, reuelare. Murfuro murmurare. Pụyḷeḍ, prude<g ref="char:cmbAbbrStroke">̄</g>tia. Hygareḍ, pietas, Cry<g ref="char:EOLunhyphen"/>ſma, confirmatio. Rhinụeḍ theolyga<g ref="char:EOLhyphen"/>ụl, virtus theologalis. Tymhereḍ, tem<g ref="char:EOLunhyphen"/>perantia. Grymhyſſeḍ, fortitudo Gụa<g ref="char:EOLhyphen"/>redig, mitis. Goḍefeḍ, patientia. Yma<g ref="char:EOLhyphen"/>roſſụyḍ, longanimitas. Cymụynaſſeḍ, benignitas Gụareḍ, manſuetudo. Cym gadụriaeth, ne ymattaliæth, continen<g ref="char:EOLhyphen"/>tia, aut abſtinentia. ſagrafen, ſacra<g ref="char:EOLhyphen"/>mentum.</p>
+            <closer>
+               <dateline>Ymylen.
+<date>
+                     <hi>1568.</hi> dyụgụyl.</date>
+               </dateline>
+               <signed>S. Nicolas.</signed>
+            </closer>
+            <pb facs="tcp:181236:37"/>
+            <pb facs="tcp:181236:37"/>
+         </div>
+      </back>
+   </text>
+</TEI>
